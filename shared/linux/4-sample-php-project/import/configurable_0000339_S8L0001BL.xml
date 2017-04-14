@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configurable>
+  <sku>S8L0001BL</sku>
+  <i18n_name>FLORIANE ANKLE BOOT BLACK</i18n_name>
+  <i18n_name_de>FLORIANE ANKLE BOOT BLACK</i18n_name_de>
+  <i18n_name_nl>FLORIANE ANKLE BOOT BLACK</i18n_name_nl>
+  <i18n_name_fr>FLORIANE ANKLE BOOT BLACK</i18n_name_fr>
+  <i18n_name_it>FLORIANE ANKLE BOOT BLACK</i18n_name_it>
+  <i18n_name_es>FLORIANE ANKLE BOOT BLACK</i18n_name_es>
+  <product_start_date>2012-09-28</product_start_date>
+  <product_end_date>2018-10-02</product_end_date>
+  <i18n_description>The Floriane ankle boot is definitely sexy-chic. Its chunky leather-covered heel and strap detail with silver buckle are right on trend this season, and the black sheep nubuck leather is smooth and soft. Wear this bootie with denims or a miniskirt to look fabulous this fall.</i18n_description>
+  <i18n_description_de>Die Stiefeletten Floriane Ankle Boot sind absolut sexy und chic. Der kräftige, lederverkleidete Absatz und die silberne Schnalle entsprechen in vollem Ausmaß dem Trend der neuen Saison und das schwarze Nabuk-Leder ist glatt und weich. Tragen Sie sie mit Jeans oder einem Minirock – eine wirklich phantastische Kombination für den bevorstehenden Herbst.</i18n_description_de>
+  <i18n_description_nl>De Floriane enkellaars is absoluut sexy-chic. De stevige met leer beklede hak en het riempje met zilveren gesp zijn helemaal volgens de laatste trend terwijl het zwarte nubuck schaapsleer zacht en glad is. Draag hem onder een jeans of minirok om er deze herfst adembenemend uit te zien.</i18n_description_nl>
+  <i18n_description_fr>La Floriane ankle boot exhale un style résolument sexy-chic. Son gros talon recouvert de cuir et sa bride ornée d'un fermoir argenté sont exactement dans la tendance de cette saison, et son cuir de mouton nubuck noir est à la fois lisse et doux. Portez-la avec un denim ou une minijupe et à vous un look fabuleux tout l'automne.</i18n_description_fr>
+  <i18n_description_it>Il Floriane ankle boot è decisamente sexy e chic. Il solido tacco, rivestito in pelle e il dettaglio della fibbia argento sono assolutamente in linea con lo spirito di questa stagione, mentre il nabuk nero è liscio e morbido. Portatelo con jeans o una minigonna – un abbinamento davvero fantastico per l’ autunno in arrivo.</i18n_description_it>
+  <i18n_description_es>The Floriane ankle boot is definitely sexy-chic. Its chunky leather-covered heel and strap detail with silver buckle are right on trend this season, and the black sheep nubuck leather is smooth and soft. Wear this bootie with denims or a miniskirt to look fabulous this fall.</i18n_description_es>
+  <i18n_short_description>FLORIANE ANKLE BOOT BLACK</i18n_short_description>
+  <i18n_short_description_de>FLORIANE ANKLE BOOT BLACK</i18n_short_description_de>
+  <i18n_short_description_nl>FLORIANE ANKLE BOOT BLACK</i18n_short_description_nl>
+  <i18n_short_description_fr>FLORIANE ANKLE BOOT BLACK</i18n_short_description_fr>
+  <i18n_short_description_it>FLORIANE ANKLE BOOT BLACK</i18n_short_description_it>
+  <i18n_short_description_es>FLORIANE ANKLE BOOT BLACK</i18n_short_description_es>
+  <i18n_product_details>&lt;ul&gt;&lt;li&gt;100% Leather&lt;/li&gt;&lt;/ul&gt;</i18n_product_details>
+  <i18n_product_details_de>&lt;ul&gt;&lt;li&gt;100% Leder&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_de>
+  <i18n_product_details_nl>&lt;ul&gt;&lt;li&gt;100% Leer&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_nl>
+  <i18n_product_details_fr>&lt;ul&gt;&lt;li&gt;100% Cuir&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_fr>
+  <i18n_product_details_it>&lt;ul&gt;&lt;li&gt;100% Pelle&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_it>
+  <i18n_product_details_es>&lt;ul&gt;&lt;li&gt;100% Cuero&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_es>
+  <i18n_product_moreaboutthefit></i18n_product_moreaboutthefit>
+  <i18n_product_moreaboutthefit_de></i18n_product_moreaboutthefit_de>
+  <i18n_product_moreaboutthefit_nl></i18n_product_moreaboutthefit_nl>
+  <i18n_product_moreaboutthefit_fr></i18n_product_moreaboutthefit_fr>
+  <i18n_product_moreaboutthefit_it></i18n_product_moreaboutthefit_it>
+  <i18n_product_moreaboutthefit_es></i18n_product_moreaboutthefit_es>
+  <price>270</price>
+  <price_uk>245</price_uk>
+  <price_de>270</price_de>
+  <price_be>270</price_be>
+  <price_nl>270</price_nl>
+  <price_fr>270</price_fr>
+  <price_it>270</price_it>
+  <price_pan_en>270</price_pan_en>
+  <price_pan_es>270</price_pan_es>
+  <price_pan_fr>270</price_pan_fr>
+  <price_pan_de>270</price_pan_de>
+  <special_price></special_price>
+  <special_from_date></special_from_date>
+  <special_to_date></special_to_date>
+  <special_price_uk></special_price_uk>
+  <special_from_date_uk></special_from_date_uk>
+  <special_to_date_uk></special_to_date_uk>
+  <special_price_de></special_price_de>
+  <special_from_date_de></special_from_date_de>
+  <special_to_date_de></special_to_date_de>
+  <special_price_nl></special_price_nl>
+  <special_from_date_nl></special_from_date_nl>
+  <special_to_date_nl></special_to_date_nl>
+  <special_price_be></special_price_be>
+  <special_from_date_be></special_from_date_be>
+  <special_to_date_be></special_to_date_be>
+  <special_price_fr></special_price_fr>
+  <special_from_date_fr></special_from_date_fr>
+  <special_to_date_fr></special_to_date_fr>
+  <special_price_it></special_price_it>
+  <special_from_date_it></special_from_date_it>
+  <special_to_date_it></special_to_date_it>
+  <special_price_pan_en></special_price_pan_en>
+  <special_from_date_pan_en></special_from_date_pan_en>
+  <special_to_date_pan_en></special_to_date_pan_en>
+  <special_price_pan_es></special_price_pan_es>
+  <special_from_date_pan_es></special_from_date_pan_es>
+  <special_to_date_pan_es></special_to_date_pan_es>
+  <special_price_pan_fr></special_price_pan_fr>
+  <special_from_date_pan_fr></special_from_date_pan_fr>
+  <special_to_date_pan_fr></special_to_date_pan_fr>
+  <special_price_pan_de></special_price_pan_de>
+  <special_from_date_pan_de></special_from_date_pan_de>
+  <special_to_date_pan_de></special_to_date_pan_de>
+  <news_from_date>2012-09-28</news_from_date>
+  <image_front>S8L0001BL_front.jpg</image_front>
+  <image_back>S8L0001BL_back.jpg</image_back>
+  <image_pocket>S8L0001BL_pocket.jpg</image_pocket>
+  <image_wash>S8L0001BL_wash.jpg</image_wash>
+  <small_image></small_image>
+  <thumbnail></thumbnail>
+  <url_key></url_key>
+  <color></color>
+  <bubble_new_collection></bubble_new_collection>
+  <bubble_sale></bubble_sale>
+  <bubble_best_seller></bubble_best_seller>
+  <bubble_limited_edition></bubble_limited_edition>
+  <gender>Women</gender>
+  <fit_group>ACCESSORIES</fit_group>
+  <fit_code>FOOTWEAR</fit_code>
+  <wash_group>COLOUR</wash_group>
+  <enable_special_area>No</enable_special_area>
+  <special_area_static_block_id></special_area_static_block_id>
+  <delivery_return_static_block_id>product_tab_delivery_return</delivery_return_static_block_id>
+  <status>Disabled</status>
+  <visibility>Nowhere</visibility>
+  <super_attributes>size</super_attributes>
+  <website>base</website>
+  <category_ids></category_ids>
+  <main_cat_seo></main_cat_seo>
+  <details_care></details_care>
+</configurable>

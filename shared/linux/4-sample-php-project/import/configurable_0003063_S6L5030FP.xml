@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configurable>
+  <sku>S6L5030FP</sku>
+  <i18n_name>BLOUSE SILK CARIBBEAN FLOWERS</i18n_name>
+  <i18n_name_de>BLOUSE SILK CARIBBEAN FLOWERS</i18n_name_de>
+  <i18n_name_nl>BLOUSE SILK CARIBBEAN FLOWERS</i18n_name_nl>
+  <i18n_name_fr>BLOUSE SILK CARIBBEAN FLOWERS</i18n_name_fr>
+  <i18n_name_it>BLOUSE SILK CARIBBEAN FLOWERS</i18n_name_it>
+  <i18n_name_es>BLOUSE SILK CARIBBEAN FLOWERS</i18n_name_es>
+  <product_start_date>2015-12-10</product_start_date>
+  <product_end_date>2021-12-10</product_end_date>
+  <i18n_description>This classic silk cotton blouse from 7 For all Mankind’s women’s collection is exquisite. The relaxed fit with capped raglan sleeves in a silk cotton blend is luxuriously light and breezy. A beautiful bold orange, brown and fuchsia Caribbean flowers print adds a wild pop of color with eye-catching appeal.</i18n_description>
+  <i18n_description_de>Diese klassische Bluse aus Seiden-Baumwollmischung der Damenkollektion von A very expensive brand ist auserlesen. Der legere Schnitt mit Raglan-Flügelärmeln in einer Baumwoll-Seidenmischung ist luxuriös leicht und zart. Der Print mit Karibikblumen in kräftigem Orange, Braun und Fuchsia sorgt für einen wilden Farbakzent mit auffälligem Reiz.</i18n_description_de>
+  <i18n_description_nl>Deze klassieke zijde-katoenen bloes uit A very expensive brand’s damescollectie is absoluut adembenemend. De relaxte snit met raglan kapmouwen is door het mengsel van katoen en zijde heerlijk licht en luchtig. De mooie Caraïbische bloemenprint in de tinten oranje, bruin en fuchsia zorgt voor een opvallende dosis kleur.</i18n_description_nl>
+  <i18n_description_fr>Cette chemise en soie et coton pour femme de 7 For all Mankind est tout simplement magnifique. Coupe décontractée aux manches raglan et confection soie et coton pour cette pièce luxueuse, aérienne et légère. Bel imprimé fleurs exotiques marron, fuschia et orange : ces couleurs pleines de peps ne passeront pas inaperçues.</i18n_description_fr>
+  <i18n_description_it>Questa maglia classica in seta e cotone di A very expensive brand della collezione donna è deliziosa. Con il fit oversize, le maniche a raglan e inserto, il misto seta e cotone ne fanno un capo magnificamente leggero e arioso. Una bellissima stampa dal vivace mix di arancione, marrone e fuchsia aggiunge una pennellata di colore di grande impatto.</i18n_description_it>
+  <i18n_description_es>Esta clásica blusa de seda y algodón de la colección para mujer de 7 For all Mankind es realmente exquisita. El calce holgado y las mangas raglán en esta mezcla de algodón y seda es lujosamente liviana y fresca. Un hermoso estampado de flores caribeñas anaranjadas, marrones y fucsias añade un atrevido toque de color sumamente atractivo.</i18n_description_es>
+  <i18n_short_description>BLOUSE SILK CARIBBEAN FLOWERS</i18n_short_description>
+  <i18n_short_description_de>BLOUSE SILK CARIBBEAN FLOWERS</i18n_short_description_de>
+  <i18n_short_description_nl>BLOUSE SILK CARIBBEAN FLOWERS</i18n_short_description_nl>
+  <i18n_short_description_fr>BLOUSE SILK CARIBBEAN FLOWERS</i18n_short_description_fr>
+  <i18n_short_description_it>BLOUSE SILK CARIBBEAN FLOWERS</i18n_short_description_it>
+  <i18n_short_description_es>BLOUSE SILK CARIBBEAN FLOWERS</i18n_short_description_es>
+  <i18n_product_details>&lt;ul&gt;&lt;li&gt;Measurements may vary based on size, fabric and wash&lt;/li&gt;&lt;/ul&gt;</i18n_product_details>
+  <i18n_product_details_de>&lt;ul&gt;&lt;li&gt;Die Maße können je nach Größe, Material und Waschung variieren&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_de>
+  <i18n_product_details_nl>&lt;ul&gt;&lt;li&gt;Afmetingen kunnen variëren op basis van maat, stof en wassing&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_nl>
+  <i18n_product_details_fr>&lt;ul&gt;&lt;li&gt;Les mesures peuvent varier en fonction de la taille, du tissu et du lavage&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_fr>
+  <i18n_product_details_it>&lt;ul&gt;&lt;li&gt;Le misure possono variare in base alla taglia, al tessuto e al lavaggio&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_it>
+  <i18n_product_details_es>&lt;ul&gt;&lt;li&gt;Las medidas pueden variar dependiendo de la talla, material y teñido&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_es>
+  <i18n_product_moreaboutthefit></i18n_product_moreaboutthefit>
+  <i18n_product_moreaboutthefit_de></i18n_product_moreaboutthefit_de>
+  <i18n_product_moreaboutthefit_nl></i18n_product_moreaboutthefit_nl>
+  <i18n_product_moreaboutthefit_fr></i18n_product_moreaboutthefit_fr>
+  <i18n_product_moreaboutthefit_it></i18n_product_moreaboutthefit_it>
+  <i18n_product_moreaboutthefit_es></i18n_product_moreaboutthefit_es>
+  <price>180</price>
+  <price_uk>160</price_uk>
+  <price_de>180</price_de>
+  <price_be>180</price_be>
+  <price_nl>180</price_nl>
+  <price_fr>180</price_fr>
+  <price_it>180</price_it>
+  <price_pan_en>180</price_pan_en>
+  <price_pan_es>180</price_pan_es>
+  <price_pan_fr>180</price_pan_fr>
+  <price_pan_de>180</price_pan_de>
+  <special_price></special_price>
+  <special_from_date></special_from_date>
+  <special_to_date></special_to_date>
+  <special_price_uk></special_price_uk>
+  <special_from_date_uk></special_from_date_uk>
+  <special_to_date_uk></special_to_date_uk>
+  <special_price_de></special_price_de>
+  <special_from_date_de></special_from_date_de>
+  <special_to_date_de></special_to_date_de>
+  <special_price_nl></special_price_nl>
+  <special_from_date_nl></special_from_date_nl>
+  <special_to_date_nl></special_to_date_nl>
+  <special_price_be></special_price_be>
+  <special_from_date_be></special_from_date_be>
+  <special_to_date_be></special_to_date_be>
+  <special_price_fr></special_price_fr>
+  <special_from_date_fr></special_from_date_fr>
+  <special_to_date_fr></special_to_date_fr>
+  <special_price_it></special_price_it>
+  <special_from_date_it></special_from_date_it>
+  <special_to_date_it></special_to_date_it>
+  <special_price_pan_en></special_price_pan_en>
+  <special_from_date_pan_en></special_from_date_pan_en>
+  <special_to_date_pan_en></special_to_date_pan_en>
+  <special_price_pan_es></special_price_pan_es>
+  <special_from_date_pan_es></special_from_date_pan_es>
+  <special_to_date_pan_es></special_to_date_pan_es>
+  <special_price_pan_fr></special_price_pan_fr>
+  <special_from_date_pan_fr></special_from_date_pan_fr>
+  <special_to_date_pan_fr></special_to_date_pan_fr>
+  <special_price_pan_de></special_price_pan_de>
+  <special_from_date_pan_de></special_from_date_pan_de>
+  <special_to_date_pan_de></special_to_date_pan_de>
+  <news_from_date>2015-12-10</news_from_date>
+  <image_front>S6L5030FP_front.jpg</image_front>
+  <image_back>S6L5030FP_back.jpg</image_back>
+  <image_pocket>S6L5030FP_pocket.jpg</image_pocket>
+  <image_wash>S6L5030FP_wash.jpg</image_wash>
+  <small_image></small_image>
+  <thumbnail></thumbnail>
+  <url_key></url_key>
+  <color></color>
+  <bubble_new_collection></bubble_new_collection>
+  <bubble_sale></bubble_sale>
+  <bubble_best_seller></bubble_best_seller>
+  <bubble_limited_edition></bubble_limited_edition>
+  <gender>Women</gender>
+  <fit_group>TOPS</fit_group>
+  <fit_code>SILK</fit_code>
+  <wash_group>PRINTS</wash_group>
+  <enable_special_area>No</enable_special_area>
+  <special_area_static_block_id></special_area_static_block_id>
+  <delivery_return_static_block_id>product_tab_delivery_return</delivery_return_static_block_id>
+  <status>Disabled</status>
+  <visibility>Nowhere</visibility>
+  <super_attributes>size</super_attributes>
+  <website>base</website>
+  <category_ids></category_ids>
+  <main_cat_seo>31</main_cat_seo>
+  <details_care></details_care>
+</configurable>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configurable>
+  <sku>S4M1340AR</sku>
+  <i18n_name>CREW NECK RAGLAN ARMY</i18n_name>
+  <i18n_name_de>CREW NECK RAGLAN ARMY</i18n_name_de>
+  <i18n_name_nl>CREW NECK RAGLAN ARMY</i18n_name_nl>
+  <i18n_name_fr>CREW NECK RAGLAN ARMY</i18n_name_fr>
+  <i18n_name_it>CREW NECK RAGLAN ARMY</i18n_name_it>
+  <i18n_name_es>CREW NECK RAGLAN ARMY</i18n_name_es>
+  <product_start_date>2015-12-10</product_start_date>
+  <product_end_date>2021-12-10</product_end_date>
+  <i18n_description>A very expensive brand’s men’s classic crew neck cotton sweater is a versatile essential with an understated masculine aesthetic. The army green sweater has a classic crew neck with raglan sleeves and a lightly washed finish. Pair this contemporary understated piece with favourite denim or chinos for an authentic cool, casual look.</i18n_description>
+  <i18n_description_de>A very expensive brands klassischer Herren-Baumwollpullover mit Rundhalsausschnitt ist ein vielseitiges Basic mit zurückhaltend maskuliner Optik. Der armeegrüne Pullover hat einen klassischen Rundhalsausschnitt mit Raglanärmeln und ein leicht verwaschenes Finish. Tragen Sie diesen modischen, dezenten Pullover zu Ihrer Lieblingsjeans oder Chinos – für einen authentischen Freizeitlook.</i18n_description_de>
+  <i18n_description_nl>A very expensive brand’s klassieke trui met ronde hals is een veelzijdige basic met een ingetogen mannelijke look. De legergroene trui heeft een klassieke ronde hals en raglanmouwen en een licht gewassen finish. Combineer deze moderne simpele trui met je favoriete jeans of chino's voor een cool en casual effect.</i18n_description_nl>
+  <i18n_description_fr>Ce pullover en coton à encolure ras du cou pour homme de A very expensive brand est un basique polyvalent à la belle sobriété masculine. Ce pullover kaki légèrement délavé a une encolure ras du cou classique et des manches raglan. Associez cette pièce à la fois tendance et sobre avec votre jean ou chino préféré pour un style cool et décontracté.</i18n_description_fr>
+  <i18n_description_it>Il classico pullover di cotone con collo a giro di A very expensive brand per uomo è un capo essenziale molto versatile, per un'eleganza maschile sobria. Il pullover color verde militare ha il classico collo a giro, manica a raglan e un finissaggio leggermente delavé. È perfetto da abbinare con il denim preferito o con un bel pantalone chino per un look informale e cool.</i18n_description_it>
+  <i18n_description_es>El clásico jersey de algodón con cuello redondo para hombre de A very expensive brand es una prenda básica sumamente versátil con un elegante estilo masculino. Este jersey verde militar tiene un cuello redondo clásico con  mangas raglán y un acabado ligeramente lavado. Combina esta prenda contemporánea y elegante con tu vaquero de denim o tus chinos favoritos  y tendrás un look muy cool e informal.</i18n_description_es>
+  <i18n_short_description>CREW NECK RAGLAN ARMY</i18n_short_description>
+  <i18n_short_description_de>CREW NECK RAGLAN ARMY</i18n_short_description_de>
+  <i18n_short_description_nl>CREW NECK RAGLAN ARMY</i18n_short_description_nl>
+  <i18n_short_description_fr>CREW NECK RAGLAN ARMY</i18n_short_description_fr>
+  <i18n_short_description_it>CREW NECK RAGLAN ARMY</i18n_short_description_it>
+  <i18n_short_description_es>CREW NECK RAGLAN ARMY</i18n_short_description_es>
+  <i18n_product_details>&lt;ul&gt;&lt;li&gt;Measurements may vary based on size, fabric and wash&lt;/li&gt;&lt;li&gt;100% Cotton&lt;/li&gt;&lt;li&gt;Made in Europe using original and handcrafted finishing techniques&lt;/li&gt;&lt;/ul&gt;</i18n_product_details>
+  <i18n_product_details_de>&lt;ul&gt;&lt;li&gt;Die Maße können je nach Größe, Material und Waschung variieren&lt;/li&gt;&lt;li&gt;100% Baumwolle&lt;/li&gt;&lt;li&gt;Made in Europe unter Verwendung von Original-und Handarbeit Veredelungstechniken&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_de>
+  <i18n_product_details_nl>&lt;ul&gt;&lt;li&gt;Afmetingen kunnen variëren op basis van maat, stof en wassing&lt;/li&gt;&lt;li&gt;100% Katoen&lt;/li&gt;&lt;li&gt;Gemaakt in Europa met behulp van originele en ambachtelijke afwerkingstechnieken&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_nl>
+  <i18n_product_details_fr>&lt;ul&gt;&lt;li&gt;Les mesures peuvent varier en fonction de la taille, du tissu et du lavage&lt;/li&gt;&lt;li&gt;100% Coton&lt;/li&gt;&lt;li&gt;Fabriqué en Europe avec des techniques de finitions artisanales&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_fr>
+  <i18n_product_details_it>&lt;ul&gt;&lt;li&gt;Le misure possono variare in base alla taglia, al tessuto e al lavaggio&lt;/li&gt;&lt;li&gt;100% Cotone&lt;/li&gt;&lt;li&gt;Realizzato in Europa utilizzando tecniche di finitura artigianali &lt;/li&gt;&lt;/ul&gt;</i18n_product_details_it>
+  <i18n_product_details_es>&lt;ul&gt;&lt;li&gt;Las medidas pueden variar dependiendo de la talla, material y teñido&lt;/li&gt;&lt;li&gt;100% Algodón&lt;/li&gt;&lt;li&gt;Fabricado en Europa utilizando técnicas de acabado originales y artesanas.&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_es>
+  <i18n_product_moreaboutthefit></i18n_product_moreaboutthefit>
+  <i18n_product_moreaboutthefit_de></i18n_product_moreaboutthefit_de>
+  <i18n_product_moreaboutthefit_nl></i18n_product_moreaboutthefit_nl>
+  <i18n_product_moreaboutthefit_fr></i18n_product_moreaboutthefit_fr>
+  <i18n_product_moreaboutthefit_it></i18n_product_moreaboutthefit_it>
+  <i18n_product_moreaboutthefit_es></i18n_product_moreaboutthefit_es>
+  <price>120</price>
+  <price_uk>100</price_uk>
+  <price_de>120</price_de>
+  <price_be>120</price_be>
+  <price_nl>120</price_nl>
+  <price_fr>120</price_fr>
+  <price_it>120</price_it>
+  <price_pan_en>120</price_pan_en>
+  <price_pan_es>120</price_pan_es>
+  <price_pan_fr>120</price_pan_fr>
+  <price_pan_de>120</price_pan_de>
+  <special_price></special_price>
+  <special_from_date></special_from_date>
+  <special_to_date></special_to_date>
+  <special_price_uk></special_price_uk>
+  <special_from_date_uk></special_from_date_uk>
+  <special_to_date_uk></special_to_date_uk>
+  <special_price_de></special_price_de>
+  <special_from_date_de></special_from_date_de>
+  <special_to_date_de></special_to_date_de>
+  <special_price_nl></special_price_nl>
+  <special_from_date_nl></special_from_date_nl>
+  <special_to_date_nl></special_to_date_nl>
+  <special_price_be></special_price_be>
+  <special_from_date_be></special_from_date_be>
+  <special_to_date_be></special_to_date_be>
+  <special_price_fr></special_price_fr>
+  <special_from_date_fr></special_from_date_fr>
+  <special_to_date_fr></special_to_date_fr>
+  <special_price_it></special_price_it>
+  <special_from_date_it></special_from_date_it>
+  <special_to_date_it></special_to_date_it>
+  <special_price_pan_en></special_price_pan_en>
+  <special_from_date_pan_en></special_from_date_pan_en>
+  <special_to_date_pan_en></special_to_date_pan_en>
+  <special_price_pan_es></special_price_pan_es>
+  <special_from_date_pan_es></special_from_date_pan_es>
+  <special_to_date_pan_es></special_to_date_pan_es>
+  <special_price_pan_fr></special_price_pan_fr>
+  <special_from_date_pan_fr></special_from_date_pan_fr>
+  <special_to_date_pan_fr></special_to_date_pan_fr>
+  <special_price_pan_de></special_price_pan_de>
+  <special_from_date_pan_de></special_from_date_pan_de>
+  <special_to_date_pan_de></special_to_date_pan_de>
+  <news_from_date>2015-12-10</news_from_date>
+  <image_front>S4M1340AR_front.jpg</image_front>
+  <image_back>S4M1340AR_back.jpg</image_back>
+  <image_pocket>S4M1340AR_pocket.jpg</image_pocket>
+  <image_wash>S4M1340AR_wash.jpg</image_wash>
+  <small_image></small_image>
+  <thumbnail></thumbnail>
+  <url_key></url_key>
+  <color></color>
+  <bubble_new_collection></bubble_new_collection>
+  <bubble_sale></bubble_sale>
+  <bubble_best_seller></bubble_best_seller>
+  <bubble_limited_edition></bubble_limited_edition>
+  <gender>Men</gender>
+  <fit_group>SWEATERS</fit_group>
+  <fit_code>ROUND NECK</fit_code>
+  <wash_group>GREEN</wash_group>
+  <enable_special_area>No</enable_special_area>
+  <special_area_static_block_id></special_area_static_block_id>
+  <delivery_return_static_block_id>product_tab_delivery_return</delivery_return_static_block_id>
+  <status>Disabled</status>
+  <visibility>Nowhere</visibility>
+  <super_attributes>size</super_attributes>
+  <website>base</website>
+  <category_ids></category_ids>
+  <main_cat_seo>930</main_cat_seo>
+  <details_care></details_care>
+</configurable>

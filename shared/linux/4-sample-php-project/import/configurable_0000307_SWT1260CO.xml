@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configurable>
+  <sku>SWT1260CO</sku>
+  <i18n_name>THE SKINNY LIQUID METALLICS COPPER</i18n_name>
+  <i18n_name_de>THE SKINNY LIQUID METALLICS COPPER</i18n_name_de>
+  <i18n_name_nl>THE SKINNY LIQUID METALLICS COPPER</i18n_name_nl>
+  <i18n_name_fr>THE SKINNY LIQUID METALLICS COPPER</i18n_name_fr>
+  <i18n_name_it>THE SKINNY LIQUID METALLICS COPPER</i18n_name_it>
+  <i18n_name_es>THE SKINNY LIQUID METALLICS COPPER</i18n_name_es>
+  <product_start_date>2012-07-03</product_start_date>
+  <product_end_date>2018-05-02</product_end_date>
+  <i18n_description>Metallic denim is fashion’s most covetable trend for stylistas who make and break the fashion rules so make a sci-fi-inspired sensationin A very expensive brand’s shimmering bronze women’s jean. This cutting-edge denim will give your look an otherworldly beauty that’s destined for only the most glamorous occasions.</i18n_description>
+  <i18n_description_de>Metallic Jeans sind unter den Stilisten, die die Regeln der Mode bestimmen und verändern, der aktuelle Trend. Wagen Sie also hemmungslos diese Jeans von 7For All Mankind mit Science-Fiction-Inspiration und Bronzereflexen. Eine höchst trendige Jeans, die Ihnen einen sublimen Charme verleiht: nur für absolut glammy Anlässe.</i18n_description_de>
+  <i18n_description_nl>Metallic denim is dé modetrend onder de stylista’s die de moderegels maken en breken: met A very expensive brand's glanzende bronskleurige vrouwenjeans is een sensationeel effect verzekerd. Het ultramoderne denim is een garantie voor een adembenemende look voor iedere trendy gelegenheid.</i18n_description_nl>
+  <i18n_description_fr>Le denim métallisé est LA tendance du moment pour les fashionistas qui font et défont la mode, alors plongez au cœur de la science-fiction et faites sensation avec le jean femme coloris bronze brillant de A very expensive brand. Ce denim avant-gardiste donnera à votre look une touche de beauté venue d'ailleurs. À réserver aux occasions les plus glamour !</i18n_description_fr>
+  <i18n_description_it>Il jeans metallizzato è la tendenza del momento, tra gli stilisti che fanno e disfano le regole della moda, e allora osate senza esitazione questo jeans di 7For All Mankind ispirato alla fantascienza e dai riflessi di bronzo. E’ un jeans di gran tendenza che vi regalerà un fascino sublime, solo per le occasioni più glam.</i18n_description_it>
+  <i18n_description_es>Metallic denim is fashion’s most covetable trend for stylistas who make and break the fashion rules so make a sci-fi-inspired sensationin A very expensive brand’s shimmering bronze women’s jean. This cutting-edge denim will give your look an otherworldly beauty that’s destined for only the most glamorous occasions.</i18n_description_es>
+  <i18n_short_description>THE SKINNY LIQUID METALLICS COPPER</i18n_short_description>
+  <i18n_short_description_de>THE SKINNY LIQUID METALLICS COPPER</i18n_short_description_de>
+  <i18n_short_description_nl>THE SKINNY LIQUID METALLICS COPPER</i18n_short_description_nl>
+  <i18n_short_description_fr>THE SKINNY LIQUID METALLICS COPPER</i18n_short_description_fr>
+  <i18n_short_description_it>THE SKINNY LIQUID METALLICS COPPER</i18n_short_description_it>
+  <i18n_short_description_es>THE SKINNY LIQUID METALLICS COPPER</i18n_short_description_es>
+  <i18n_product_details>&lt;ul&gt;&lt;li&gt;Approx. inseam: 30in&lt;/li&gt;&lt;li&gt;Rise: Front: 6 3/4in Back: 11 1/4in&lt;/li&gt;&lt;li&gt;Leg opening: 10in&lt;/li&gt;&lt;li&gt;97% Cotton 3% Spandex&lt;/li&gt;&lt;li&gt;Clean pocket&lt;/li&gt;&lt;li&gt;Zip fly&lt;/li&gt;&lt;li&gt;Made in Europe using original and handcrafted finishing techniques&lt;/li&gt;&lt;/ul&gt;</i18n_product_details>
+  <i18n_product_details_de>&lt;ul&gt;&lt;li&gt;Beinlänge ca. 76cm&lt;/li&gt;&lt;li&gt;Leibhöhe: Vorne: 17cm Hinten: 28.5cm&lt;/li&gt;&lt;li&gt;Fussweite: 25.5cm&lt;/li&gt;&lt;li&gt;97% Baumwolle 3% Spandex&lt;/li&gt;&lt;li&gt;Clean Pocket&lt;/li&gt;&lt;li&gt;Reisverschlussleiste&lt;/li&gt;&lt;li&gt;Made in Europe unter Verwendung von Original-und Handarbeit Veredelungstechniken&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_de>
+  <i18n_product_details_nl>&lt;ul&gt;&lt;li&gt;Binnenbeenlengte ca. 76cm&lt;/li&gt;&lt;li&gt;Kruisnaad: Voor: 17cm Achter: 28.5cm&lt;/li&gt;&lt;li&gt;Zoomwijdte: 25.5cm&lt;/li&gt;&lt;li&gt;97% Katoen 3% Spandex&lt;/li&gt;&lt;li&gt;Achterzak zonder squiggle&lt;/li&gt;&lt;li&gt;Ritssluiting&lt;/li&gt;&lt;li&gt;Gemaakt in Europa met behulp van originele en ambachtelijke afwerkingstechnieken&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_nl>
+  <i18n_product_details_fr>&lt;ul&gt;&lt;li&gt;Inseam: sur 76cm&lt;/li&gt;&lt;li&gt;Fourche: Avant: 17cm Arrière: 28.5cm&lt;/li&gt;&lt;li&gt;Ouverture des jambes: 25.5cm&lt;/li&gt;&lt;li&gt;97% Coton 3% Spandex&lt;/li&gt;&lt;li&gt;Clean poche&lt;/li&gt;&lt;li&gt;Fermeture Zip&lt;/li&gt;&lt;li&gt;Fabriqué en Europe avec des techniques de finitions artisanales&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_fr>
+  <i18n_product_details_it>&lt;ul&gt;&lt;li&gt;Lunghezza dal cavallo alla caviglia: circa 76cm&lt;/li&gt;&lt;li&gt;Lunghezza dal cavallo alla vita: Davanti: 17cm Dietro: 28.5cm&lt;/li&gt;&lt;li&gt;Apertura gamba: 25.5cm&lt;/li&gt;&lt;li&gt;97% Cotone 3% Spandex&lt;/li&gt;&lt;li&gt;Tasca dietro: liscia&lt;/li&gt;&lt;li&gt;Cerniera lampo&lt;/li&gt;&lt;li&gt;Realizzato in Europa utilizzando tecniche di finitura artigianali &lt;/li&gt;&lt;/ul&gt;</i18n_product_details_it>
+  <i18n_product_details_es>&lt;ul&gt;&lt;li&gt;Tiro aproximado: 30in&lt;/li&gt;&lt;li&gt;Tiro: Frontal: 6 3/4in Trasero: 11 1/4in&lt;/li&gt;&lt;li&gt;Abertura de la pierna: 10in&lt;/li&gt;&lt;li&gt;97% Algodón 3% Spandex&lt;/li&gt;&lt;li&gt;Blosillo sin squiggle&lt;/li&gt;&lt;li&gt;Zip fly&lt;/li&gt;&lt;li&gt;Fabricado en Europa utilizando técnicas de acabado originales y artesanas.&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_es>
+  <i18n_product_moreaboutthefit>Characterised by its minimal detailing, The Skinny has a comfortable rise with a slim, sexy, and fitted silhouette top to bottom. The length hits at the ankle to maintain a clean line with no stacking.</i18n_product_moreaboutthefit>
+  <i18n_product_moreaboutthefit_de>&lt;ul&gt;&lt;li&gt;Minimalistische Verzierungen&lt;/li&gt;&lt;li&gt;die Skinny hat eine bequeme Leibhöhe und eine durchweg schmale, sexy und eng anliegende Silhouette&lt;/li&gt;&lt;li&gt;endet kurz über dem Knöchel und garantiert einen cleanen Look mit schmaler Silhouette&lt;/li&gt;&lt;/ul&gt;</i18n_product_moreaboutthefit_de>
+  <i18n_product_moreaboutthefit_nl>De Skinny wordt gekenmerkt door minimale details en heeft een comfortabele heuplijn met een slank, sexy en aansluitend silhouet van top tot teen. De lengte gaat mooi tot de enkel voor een pure lijn zonder kreuken.</i18n_product_moreaboutthefit_nl>
+  <i18n_product_moreaboutthefit_fr>Orné de détails raffinés, le Skinny est confortable à la taille avec une coupe plus ajustée très sexy qui épouse à merveille l’ensemble de la silhouette. Son tombé bien ajusté jusqu’à la cheville lui confère une ligne impeccable et sans plis.</i18n_product_moreaboutthefit_fr>
+  <i18n_product_moreaboutthefit_it>Il modello Skinny, con dettagli minimal e vita confortevole, disegna una figura sexy e sottile da capo a piedi! L’orlo arriva alla caviglia per un taglio deciso senza arricciature.</i18n_product_moreaboutthefit_it>
+  <i18n_product_moreaboutthefit_es>Characterised by its minimal detailing, The Skinny has a comfortable rise with a slim, sexy, and fitted silhouette top to bottom. The length hits at the ankle to maintain a clean line with no stacking.</i18n_product_moreaboutthefit_es>
+  <price>239</price>
+  <price_uk>220</price_uk>
+  <price_de>239</price_de>
+  <price_be>239</price_be>
+  <price_nl>239</price_nl>
+  <price_fr>239</price_fr>
+  <price_it>239</price_it>
+  <price_pan_en>239</price_pan_en>
+  <price_pan_es>239</price_pan_es>
+  <price_pan_fr>239</price_pan_fr>
+  <price_pan_de>239</price_pan_de>
+  <special_price></special_price>
+  <special_from_date></special_from_date>
+  <special_to_date></special_to_date>
+  <special_price_uk></special_price_uk>
+  <special_from_date_uk></special_from_date_uk>
+  <special_to_date_uk></special_to_date_uk>
+  <special_price_de></special_price_de>
+  <special_from_date_de></special_from_date_de>
+  <special_to_date_de></special_to_date_de>
+  <special_price_nl></special_price_nl>
+  <special_from_date_nl></special_from_date_nl>
+  <special_to_date_nl></special_to_date_nl>
+  <special_price_be></special_price_be>
+  <special_from_date_be></special_from_date_be>
+  <special_to_date_be></special_to_date_be>
+  <special_price_fr></special_price_fr>
+  <special_from_date_fr></special_from_date_fr>
+  <special_to_date_fr></special_to_date_fr>
+  <special_price_it></special_price_it>
+  <special_from_date_it></special_from_date_it>
+  <special_to_date_it></special_to_date_it>
+  <special_price_pan_en></special_price_pan_en>
+  <special_from_date_pan_en></special_from_date_pan_en>
+  <special_to_date_pan_en></special_to_date_pan_en>
+  <special_price_pan_es></special_price_pan_es>
+  <special_from_date_pan_es></special_from_date_pan_es>
+  <special_to_date_pan_es></special_to_date_pan_es>
+  <special_price_pan_fr></special_price_pan_fr>
+  <special_from_date_pan_fr></special_from_date_pan_fr>
+  <special_to_date_pan_fr></special_to_date_pan_fr>
+  <special_price_pan_de></special_price_pan_de>
+  <special_from_date_pan_de></special_from_date_pan_de>
+  <special_to_date_pan_de></special_to_date_pan_de>
+  <news_from_date>2012-07-03</news_from_date>
+  <image_front>SWT1260CO_front.jpg</image_front>
+  <image_back>SWT1260CO_back.jpg</image_back>
+  <image_pocket>SWT1260CO_pocket.jpg</image_pocket>
+  <image_wash>SWT1260CO_wash.jpg</image_wash>
+  <small_image></small_image>
+  <thumbnail></thumbnail>
+  <url_key></url_key>
+  <color></color>
+  <bubble_new_collection></bubble_new_collection>
+  <bubble_sale></bubble_sale>
+  <bubble_best_seller></bubble_best_seller>
+  <bubble_limited_edition></bubble_limited_edition>
+  <gender>Women</gender>
+  <fit_group>SKINNY</fit_group>
+  <fit_code>THE SKINNY</fit_code>
+  <wash_group>COLOUR</wash_group>
+  <enable_special_area>No</enable_special_area>
+  <special_area_static_block_id></special_area_static_block_id>
+  <delivery_return_static_block_id>product_tab_delivery_return</delivery_return_static_block_id>
+  <status>Disabled</status>
+  <visibility>Nowhere</visibility>
+  <super_attributes>size</super_attributes>
+  <website>base</website>
+  <category_ids></category_ids>
+  <main_cat_seo></main_cat_seo>
+  <details_care></details_care>
+</configurable>

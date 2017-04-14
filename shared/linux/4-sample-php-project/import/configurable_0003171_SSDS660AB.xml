@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configurable>
+  <sku>SSDS660AB</sku>
+  <i18n_name>BOXY SHIRT LIGHT INDIGO</i18n_name>
+  <i18n_name_de>BOXY SHIRT LIGHT INDIGO</i18n_name_de>
+  <i18n_name_nl>BOXY SHIRT LIGHT INDIGO</i18n_name_nl>
+  <i18n_name_fr>BOXY SHIRT LIGHT INDIGO</i18n_name_fr>
+  <i18n_name_it>BOXY SHIRT LIGHT INDIGO</i18n_name_it>
+  <i18n_name_es>BOXY SHIRT LIGHT INDIGO</i18n_name_es>
+  <product_start_date>2015-12-10</product_start_date>
+  <product_end_date>2021-12-10</product_end_date>
+  <i18n_description>7 For all Mankind has taken an elevated approach to the classic denim shirt. Beautifully re-worked with torn away cuffs and a raw cut hem to create a contemporary boxy fit, cropped denim shirt. The vintage light blue denim exudes the sense of a forever love-worn favourite, re-invented with a soft feminine edge.</i18n_description>
+  <i18n_description_de>A very expensive brand hat das klassische Jeanshemd ganz neu interpretiert. Dieses kastig geschnittene, kurze Jeanshemd wurde wunderschön überarbeitet und punktet mit ausgefransten Manschetten und unversäubertem Saum. Der hellblaue Vintage-Denim vermittelt das Flair eines abgetragenen Lieblingshemds mit einem Hauch zarter Weiblichkeit.</i18n_description_de>
+  <i18n_description_nl>A very expensive brand brengt het klassieke denimshirt naar nieuwe niveaus. Deze mooie herinterpretatie heeft moderne vierkante lijnen en valt korter. Door het vintage lichtblauwe denim is dit een all-time favourite, nu in een iets zachtere, vrouwelijke uitvoering.</i18n_description_nl>
+  <i18n_description_fr>Une nouvelle approche de la chemise en denim classique, signée 7 For All mankind. Jolie réinterprétation associant coupe brute et bords déchirés pour cette chemise courte en denim arborant une coupe boîte moderne. Réactualisé par une touche de féminité, ce denim bleu ciel vintage arbore un style vieilli dont on n'est pas près de se lasser.</i18n_description_fr>
+  <i18n_description_it>A very expensive brand rivisita in chiave ricercata la classica camicia in denim.  Magnificamente lavorato con polsi sfilacciati e l'orlo a taglio vivo crea un fit squadrato molto contemporaneo per questa camicia cropped in denim. Il denim vintage azzurro ha tutto il fascino del capo preferito e un po' consumato, ma reinterpretato in chiave femminile e delicata.</i18n_description_it>
+  <i18n_description_es>7 For all Mankind ha convertido a la clásica camisa de denim en una prenda sublime. Maravillosamente rediseñada con puños deshilachados y bajo deshilachado y sin dobladillo esta camisa de denim corta y de corte cuadrado Boxy tiene un look contemporáneo. El denim celeste vintage emana ese toque usado que caracteriza tu prenda favorita, reinventada con un delicado aspecto femenino.</i18n_description_es>
+  <i18n_short_description>BOXY SHIRT LIGHT INDIGO</i18n_short_description>
+  <i18n_short_description_de>BOXY SHIRT LIGHT INDIGO</i18n_short_description_de>
+  <i18n_short_description_nl>BOXY SHIRT LIGHT INDIGO</i18n_short_description_nl>
+  <i18n_short_description_fr>BOXY SHIRT LIGHT INDIGO</i18n_short_description_fr>
+  <i18n_short_description_it>BOXY SHIRT LIGHT INDIGO</i18n_short_description_it>
+  <i18n_short_description_es>BOXY SHIRT LIGHT INDIGO</i18n_short_description_es>
+  <i18n_product_details>&lt;ul&gt;&lt;li&gt;Measurements may vary based on size, fabric and wash&lt;/li&gt;&lt;li&gt;100% Lyocell&lt;/li&gt;&lt;li&gt;Made in Europe using original and handcrafted finishing techniques&lt;/li&gt;&lt;/ul&gt;</i18n_product_details>
+  <i18n_product_details_de>&lt;ul&gt;&lt;li&gt;Die Maße können je nach Größe, Material und Waschung variieren&lt;/li&gt;&lt;li&gt;100% Lyocell&lt;/li&gt;&lt;li&gt;Made in Europe unter Verwendung von Original-und Handarbeit Veredelungstechniken&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_de>
+  <i18n_product_details_nl>&lt;ul&gt;&lt;li&gt;Afmetingen kunnen variëren op basis van maat, stof en wassing&lt;/li&gt;&lt;li&gt;100% Lyocell&lt;/li&gt;&lt;li&gt;Gemaakt in Europa met behulp van originele en ambachtelijke afwerkingstechnieken&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_nl>
+  <i18n_product_details_fr>&lt;ul&gt;&lt;li&gt;Les mesures peuvent varier en fonction de la taille, du tissu et du lavage&lt;/li&gt;&lt;li&gt;100% Lyocell&lt;/li&gt;&lt;li&gt;Fabriqué en Europe avec des techniques de finitions artisanales&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_fr>
+  <i18n_product_details_it>&lt;ul&gt;&lt;li&gt;Le misure possono variare in base alla taglia, al tessuto e al lavaggio&lt;/li&gt;&lt;li&gt;100% Lyocell&lt;/li&gt;&lt;li&gt;Realizzato in Europa utilizzando tecniche di finitura artigianali &lt;/li&gt;&lt;/ul&gt;</i18n_product_details_it>
+  <i18n_product_details_es>&lt;ul&gt;&lt;li&gt;Las medidas pueden variar dependiendo de la talla, material y teñido&lt;/li&gt;&lt;li&gt;100% Lyocell&lt;/li&gt;&lt;li&gt;Fabricado en Europa utilizando técnicas de acabado originales y artesanas.&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_es>
+  <i18n_product_moreaboutthefit></i18n_product_moreaboutthefit>
+  <i18n_product_moreaboutthefit_de></i18n_product_moreaboutthefit_de>
+  <i18n_product_moreaboutthefit_nl></i18n_product_moreaboutthefit_nl>
+  <i18n_product_moreaboutthefit_fr></i18n_product_moreaboutthefit_fr>
+  <i18n_product_moreaboutthefit_it></i18n_product_moreaboutthefit_it>
+  <i18n_product_moreaboutthefit_es></i18n_product_moreaboutthefit_es>
+  <price>200</price>
+  <price_uk>180</price_uk>
+  <price_de>200</price_de>
+  <price_be>200</price_be>
+  <price_nl>200</price_nl>
+  <price_fr>200</price_fr>
+  <price_it>200</price_it>
+  <price_pan_en>200</price_pan_en>
+  <price_pan_es>200</price_pan_es>
+  <price_pan_fr>200</price_pan_fr>
+  <price_pan_de>200</price_pan_de>
+  <special_price></special_price>
+  <special_from_date></special_from_date>
+  <special_to_date></special_to_date>
+  <special_price_uk></special_price_uk>
+  <special_from_date_uk></special_from_date_uk>
+  <special_to_date_uk></special_to_date_uk>
+  <special_price_de></special_price_de>
+  <special_from_date_de></special_from_date_de>
+  <special_to_date_de></special_to_date_de>
+  <special_price_nl></special_price_nl>
+  <special_from_date_nl></special_from_date_nl>
+  <special_to_date_nl></special_to_date_nl>
+  <special_price_be></special_price_be>
+  <special_from_date_be></special_from_date_be>
+  <special_to_date_be></special_to_date_be>
+  <special_price_fr></special_price_fr>
+  <special_from_date_fr></special_from_date_fr>
+  <special_to_date_fr></special_to_date_fr>
+  <special_price_it></special_price_it>
+  <special_from_date_it></special_from_date_it>
+  <special_to_date_it></special_to_date_it>
+  <special_price_pan_en></special_price_pan_en>
+  <special_from_date_pan_en></special_from_date_pan_en>
+  <special_to_date_pan_en></special_to_date_pan_en>
+  <special_price_pan_es></special_price_pan_es>
+  <special_from_date_pan_es></special_from_date_pan_es>
+  <special_to_date_pan_es></special_to_date_pan_es>
+  <special_price_pan_fr></special_price_pan_fr>
+  <special_from_date_pan_fr></special_from_date_pan_fr>
+  <special_to_date_pan_fr></special_to_date_pan_fr>
+  <special_price_pan_de></special_price_pan_de>
+  <special_from_date_pan_de></special_from_date_pan_de>
+  <special_to_date_pan_de></special_to_date_pan_de>
+  <news_from_date>2015-12-10</news_from_date>
+  <image_front>SSDS660AB_front.jpg</image_front>
+  <image_back>SSDS660AB_back.jpg</image_back>
+  <image_pocket>SSDS660AB_pocket.jpg</image_pocket>
+  <image_wash>SSDS660AB_wash.jpg</image_wash>
+  <small_image></small_image>
+  <thumbnail></thumbnail>
+  <url_key></url_key>
+  <color></color>
+  <bubble_new_collection></bubble_new_collection>
+  <bubble_sale></bubble_sale>
+  <bubble_best_seller></bubble_best_seller>
+  <bubble_limited_edition></bubble_limited_edition>
+  <gender>Women</gender>
+  <fit_group>SHIRTS</fit_group>
+  <fit_code>DENIM</fit_code>
+  <wash_group>LIGHT BLUE</wash_group>
+  <enable_special_area>No</enable_special_area>
+  <special_area_static_block_id></special_area_static_block_id>
+  <delivery_return_static_block_id>product_tab_delivery_return</delivery_return_static_block_id>
+  <status>Disabled</status>
+  <visibility>Nowhere</visibility>
+  <super_attributes>size</super_attributes>
+  <website>base</website>
+  <category_ids></category_ids>
+  <main_cat_seo>31</main_cat_seo>
+  <details_care></details_care>
+</configurable>

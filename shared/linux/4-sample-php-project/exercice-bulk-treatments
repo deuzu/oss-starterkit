@@ -1,0 +1,43 @@
+A - Chercher dans une arborescence (/home/oss/4-sample_php_project)
+
+
+    Chercher tous les auteurs du code dans le projet (chercher @author)
+
+
+
+
+
+
+    Ne chercher les auteurs que des fichiers php
+
+
+
+
+
+
+B – Manipuler du texte
+
+
+    Renommer le produit «THE CROPPED CHINO SATEEN NAVY » en « JEAN TRES TRES CHER » dans son fichier d'import (dossier import)
+
+
+
+
+
+    Changer les status des produits dans le fichier d'import, de « Disabled » à « Enabled »
+
+
+
+
+
+    S'approprier le code de Jean Michel en faisant croire qu'on en est l'auteur (hint : chercher les @author)
+
+
+
+
+
+    Chercher tous les fichiers dont Robert est l'auteur et les supprimer, quel artiste ce Robert.
+
+	1 - lister les fichiers de robert
+
+	2 - les supprimer

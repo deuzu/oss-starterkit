@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configurable>
+  <sku>SP0422DGR</sku>
+  <i18n_name>Polo Piquet Dark Green</i18n_name>
+  <i18n_name_de>Polo Piquet Dark Green</i18n_name_de>
+  <i18n_name_nl>Polo Piquet Dark Green</i18n_name_nl>
+  <i18n_name_fr>Polo Piquet Dark Green</i18n_name_fr>
+  <i18n_name_it>Polo Piquet Dark Green</i18n_name_it>
+  <i18n_name_es>Polo Piquet Dark Green</i18n_name_es>
+  <product_start_date>2012-07-03</product_start_date>
+  <product_end_date>2018-05-02</product_end_date>
+  <i18n_description>The Blazer velvet Dark grey will lend every look a super luxe finish. Immaculately constructed in sophisticated dark grey velvet, this contemporary classic exudes suave, refined and confident masculinity and will instantly elevate your look.</i18n_description>
+  <i18n_description_de>Der Blazer velvet Dark Grey aus grauem Samt sorgt immer für eine super raffinierten Look. Einwandfreier Schnitt und hochraffinierter dunkelgrauer Samt: ein sehr aktueller Klassiker, der eine freundliche und sichere Maskulinität ausstrahlt.</i18n_description_de>
+  <i18n_description_nl>De Blazer Velvet Dark Grey geeft aan iedere look een superluxe finish. Perfect vervaardigd van chic donkergrijs fluweel, straalt deze moderne klassieker milde en zelfverzekerde mannelijkheid uit en geeft onmiddellijk kracht aan je look.</i18n_description_nl>
+  <i18n_description_fr>Le Blazer  Velvet Dark Grey donnera à tous vos looks un fini ultraluxueux. Impeccablement coupé dans un velours gris foncé sophistiqué, ce classique contemporain exhale une virilité suave, raffinée et assurée et rehaussera instantanément votre look.</i18n_description_fr>
+  <i18n_description_it>La Blazer Velvet Dark in velluto grigio regala sempre un look super raffinato. Di taglio impeccabile, in raffinatissimo velluto grigio scuro,  questo classico molto attuale  emana una mascolinità garbata e sicura.</i18n_description_it>
+  <i18n_description_es>The Blazer velvet Dark grey will lend every look a super luxe finish. Immaculately constructed in sophisticated dark grey velvet, this contemporary classic exudes suave, refined and confident masculinity and will instantly elevate your look.</i18n_description_es>
+  <i18n_short_description>Polo Piquet Dark Green</i18n_short_description>
+  <i18n_short_description_de>Polo Piquet Dark Green</i18n_short_description_de>
+  <i18n_short_description_nl>Polo Piquet Dark Green</i18n_short_description_nl>
+  <i18n_short_description_fr>Polo Piquet Dark Green</i18n_short_description_fr>
+  <i18n_short_description_it>Polo Piquet Dark Green</i18n_short_description_it>
+  <i18n_short_description_es>Polo Piquet Dark Green</i18n_short_description_es>
+  <i18n_product_details>&lt;ul&gt;&lt;li&gt;100% Cotton&lt;/li&gt;&lt;li&gt;Made in Europe using original and handcrafted finishing techniques&lt;/li&gt;&lt;/ul&gt;</i18n_product_details>
+  <i18n_product_details_de>&lt;ul&gt;&lt;li&gt;100% Baumwolle&lt;/li&gt;&lt;li&gt;Made in Europe unter Verwendung von Original-und Handarbeit Veredelungstechniken&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_de>
+  <i18n_product_details_nl>&lt;ul&gt;&lt;li&gt;100% Katoen&lt;/li&gt;&lt;li&gt;Gemaakt in Europa met behulp van originele en ambachtelijke afwerkingstechnieken&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_nl>
+  <i18n_product_details_fr>&lt;ul&gt;&lt;li&gt;100% Coton&lt;/li&gt;&lt;li&gt;Fabriqué en Europe avec des techniques de finitions artisanales&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_fr>
+  <i18n_product_details_it>&lt;ul&gt;&lt;li&gt;100% Cotone&lt;/li&gt;&lt;li&gt;Realizzato in Europa utilizzando tecniche di finitura artigianali &lt;/li&gt;&lt;/ul&gt;</i18n_product_details_it>
+  <i18n_product_details_es>&lt;ul&gt;&lt;li&gt;100% Algodón&lt;/li&gt;&lt;li&gt;Fabricado en Europa utilizando técnicas de acabado originales y artesanas.&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_es>
+  <i18n_product_moreaboutthefit></i18n_product_moreaboutthefit>
+  <i18n_product_moreaboutthefit_de></i18n_product_moreaboutthefit_de>
+  <i18n_product_moreaboutthefit_nl></i18n_product_moreaboutthefit_nl>
+  <i18n_product_moreaboutthefit_fr></i18n_product_moreaboutthefit_fr>
+  <i18n_product_moreaboutthefit_it></i18n_product_moreaboutthefit_it>
+  <i18n_product_moreaboutthefit_es></i18n_product_moreaboutthefit_es>
+  <price>89</price>
+  <price_uk>85</price_uk>
+  <price_de>89</price_de>
+  <price_be>89</price_be>
+  <price_nl>89</price_nl>
+  <price_fr>89</price_fr>
+  <price_it>89</price_it>
+  <price_pan_en>89</price_pan_en>
+  <price_pan_es>89</price_pan_es>
+  <price_pan_fr>89</price_pan_fr>
+  <price_pan_de>89</price_pan_de>
+  <special_price></special_price>
+  <special_from_date></special_from_date>
+  <special_to_date></special_to_date>
+  <special_price_uk></special_price_uk>
+  <special_from_date_uk></special_from_date_uk>
+  <special_to_date_uk></special_to_date_uk>
+  <special_price_de></special_price_de>
+  <special_from_date_de></special_from_date_de>
+  <special_to_date_de></special_to_date_de>
+  <special_price_nl></special_price_nl>
+  <special_from_date_nl></special_from_date_nl>
+  <special_to_date_nl></special_to_date_nl>
+  <special_price_be></special_price_be>
+  <special_from_date_be></special_from_date_be>
+  <special_to_date_be></special_to_date_be>
+  <special_price_fr></special_price_fr>
+  <special_from_date_fr></special_from_date_fr>
+  <special_to_date_fr></special_to_date_fr>
+  <special_price_it></special_price_it>
+  <special_from_date_it></special_from_date_it>
+  <special_to_date_it></special_to_date_it>
+  <special_price_pan_en></special_price_pan_en>
+  <special_from_date_pan_en></special_from_date_pan_en>
+  <special_to_date_pan_en></special_to_date_pan_en>
+  <special_price_pan_es></special_price_pan_es>
+  <special_from_date_pan_es></special_from_date_pan_es>
+  <special_to_date_pan_es></special_to_date_pan_es>
+  <special_price_pan_fr></special_price_pan_fr>
+  <special_from_date_pan_fr></special_from_date_pan_fr>
+  <special_to_date_pan_fr></special_to_date_pan_fr>
+  <special_price_pan_de></special_price_pan_de>
+  <special_from_date_pan_de></special_from_date_pan_de>
+  <special_to_date_pan_de></special_to_date_pan_de>
+  <news_from_date>2012-07-03</news_from_date>
+  <image_front>SP0422DGR_front.jpg</image_front>
+  <image_back>SP0422DGR_back.jpg</image_back>
+  <image_pocket>SP0422DGR_pocket.jpg</image_pocket>
+  <image_wash>SP0422DGR_wash.jpg</image_wash>
+  <small_image></small_image>
+  <thumbnail></thumbnail>
+  <url_key></url_key>
+  <color></color>
+  <bubble_new_collection></bubble_new_collection>
+  <bubble_sale></bubble_sale>
+  <bubble_best_seller></bubble_best_seller>
+  <bubble_limited_edition></bubble_limited_edition>
+  <gender>Men</gender>
+  <fit_group>JACKETS</fit_group>
+  <fit_code>BLAZER</fit_code>
+  <wash_group>COLOUR</wash_group>
+  <enable_special_area>No</enable_special_area>
+  <special_area_static_block_id></special_area_static_block_id>
+  <delivery_return_static_block_id>product_tab_delivery_return</delivery_return_static_block_id>
+  <status>Disabled</status>
+  <visibility>Nowhere</visibility>
+  <super_attributes>size</super_attributes>
+  <website>base</website>
+  <category_ids></category_ids>
+  <main_cat_seo></main_cat_seo>
+  <details_care></details_care>
+</configurable>

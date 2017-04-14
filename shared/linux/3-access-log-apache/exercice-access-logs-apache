@@ -1,0 +1,77 @@
+A - Chercher et Manipuler des fichiers
+    Trouver les fichiers .gz dans le home (access logs apache)
+
+
+
+    Consulter la taille compressée
+
+
+
+    Décompresser celui du 6 novembre
+
+
+
+
+
+    Consulter la taille du fichier décompressé
+
+
+
+
+
+B - Creuser dedans !
+
+    Découvrir la structure du fichier
+
+
+
+
+
+
+    Trouver la période de temps qu'il couvre
+
+
+
+
+
+
+    Chercher les URLs ayant abouti sur des codes HTTP 404
+
+
+
+
+
+
+    N'afficher que les URLs 
+
+
+
+
+
+
+    Les trier par popularité descendante
+
+
+
+
+
+
+
+    Ne garder que les 50 premières 
+
+
+
+
+
+
+
+    Ecrire cette liste dans most-frequent-404s.txt et le compresser
+
+
+
+
+
+
+
+
+    Récupérer l'archive sur votre machine hôte

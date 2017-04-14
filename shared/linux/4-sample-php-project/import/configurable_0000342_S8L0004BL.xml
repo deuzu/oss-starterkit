@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configurable>
+  <sku>S8L0004BL</sku>
+  <i18n_name>NOVA MOTO BOOT BLACK</i18n_name>
+  <i18n_name_de>NOVA MOTO BOOT BLACK</i18n_name_de>
+  <i18n_name_nl>NOVA MOTO BOOT BLACK</i18n_name_nl>
+  <i18n_name_fr>NOVA MOTO BOOT BLACK</i18n_name_fr>
+  <i18n_name_it>NOVA MOTO BOOT BLACK</i18n_name_it>
+  <i18n_name_es>NOVA MOTO BOOT BLACK</i18n_name_es>
+  <product_start_date>2012-09-28</product_start_date>
+  <product_end_date>2018-10-02</product_end_date>
+  <i18n_description>Picture this: riding down the California's Pacific Coast highway and looking as cool as film icon Marlon Brando in the "Wild One". The Nova boot is made of soft black snakeskin-embossed vacchetta leather and features straps and metal buckles for a glam biker vibe.  Wear these smokin' hot boots for a boost of high-octane style that will leave everyone behind in the dust.</i18n_description>
+  <i18n_description_de>Stellen Sie sich vor:  Eine Motorradfahrt mit der Kino-Ikone Marlon Brando auf der Pacific Coast Highway in Kalifornien, wie im Film "Wild One". Die Nova Boots sind aus weichem schwarzem Rindleder gefertigt, mit Schlangendruck und zwei Metallschnallen für einen absoluten Glam-Look. Tragen Sie die Boots in dem ganz coolen und wilden Stil der Biker, dann lassen Sie alle im Staub stehen.</i18n_description_de>
+  <i18n_description_nl>Stel je voor: je rijdt over de Pacific Coast Highway in Californië en ziet er net zo cool uit as filmicoon Marlon Brando in “The Wild One”. De Nova Boot is vervaardigd van zacht zwart Vacchetta leer met slangenreliëf en heeft riemen met metalen gespen voor een echte bikerlook. Draag deze superstoere boots voor een boost van dynamiek die iedereen in het stof doet bijten.</i18n_description_nl>
+  <i18n_description_fr>Imaginez-vous descendant la Pacific Coast Highway sur votre moto, aussi cool que Marlon Brando, véritable icône du cinéma, dans « L'Équipée sauvage ». La botte Nova est faite d'un cuir de vachette noir doux rehaussé d’un motif « peau de serpent » en relief et possède des brides et fermoirs en métal qui lui donnent un petit côté biker très glamour.  Enfilez cette botte ultrahype et mettez le turbo côté look.</i18n_description_fr>
+  <i18n_description_it>Immaginate :  una corsa in moto alla Marlon Brando, vera icona del cinema,  come nel film "Il Selvaggio", solcando la California's Pacific Coast highway. Nova boot è realizzato in morbida pelle nera di vacchetta, con stampa rettile e due fibbie in metallo per un  look assolutamente  glam, da sfoggiare con tutta la grinta e lo stile dei biker più selvaggi, per dare la polvere a tutti.</i18n_description_it>
+  <i18n_description_es>Picture this: riding down the California's Pacific Coast highway and looking as cool as film icon Marlon Brando in the "Wild One". The Nova boot is made of soft black snakeskin-embossed vacchetta leather and features straps and metal buckles for a glam biker vibe.  Wear these smokin' hot boots for a boost of high-octane style that will leave everyone behind in the dust.</i18n_description_es>
+  <i18n_short_description>NOVA MOTO BOOT BLACK</i18n_short_description>
+  <i18n_short_description_de>NOVA MOTO BOOT BLACK</i18n_short_description_de>
+  <i18n_short_description_nl>NOVA MOTO BOOT BLACK</i18n_short_description_nl>
+  <i18n_short_description_fr>NOVA MOTO BOOT BLACK</i18n_short_description_fr>
+  <i18n_short_description_it>NOVA MOTO BOOT BLACK</i18n_short_description_it>
+  <i18n_short_description_es>NOVA MOTO BOOT BLACK</i18n_short_description_es>
+  <i18n_product_details>&lt;ul&gt;&lt;li&gt;50% Rubber, 50% Leather&lt;/li&gt;&lt;/ul&gt;</i18n_product_details>
+  <i18n_product_details_de>&lt;ul&gt;&lt;li&gt;50% Gummi, 50% Leder&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_de>
+  <i18n_product_details_nl>&lt;ul&gt;&lt;li&gt;50% Rubber, 50% Leer&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_nl>
+  <i18n_product_details_fr>&lt;ul&gt;&lt;li&gt;50% en gomme, 50% Cuir&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_fr>
+  <i18n_product_details_it>&lt;ul&gt;&lt;li&gt;50% Gomma, 50% Pelle&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_it>
+  <i18n_product_details_es>&lt;ul&gt;&lt;li&gt;50% Caucho, 50% Cuero&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_es>
+  <i18n_product_moreaboutthefit></i18n_product_moreaboutthefit>
+  <i18n_product_moreaboutthefit_de></i18n_product_moreaboutthefit_de>
+  <i18n_product_moreaboutthefit_nl></i18n_product_moreaboutthefit_nl>
+  <i18n_product_moreaboutthefit_fr></i18n_product_moreaboutthefit_fr>
+  <i18n_product_moreaboutthefit_it></i18n_product_moreaboutthefit_it>
+  <i18n_product_moreaboutthefit_es></i18n_product_moreaboutthefit_es>
+  <price>290</price>
+  <price_uk>265</price_uk>
+  <price_de>290</price_de>
+  <price_be>290</price_be>
+  <price_nl>290</price_nl>
+  <price_fr>290</price_fr>
+  <price_it>290</price_it>
+  <price_pan_en>290</price_pan_en>
+  <price_pan_es>290</price_pan_es>
+  <price_pan_fr>290</price_pan_fr>
+  <price_pan_de>290</price_pan_de>
+  <special_price></special_price>
+  <special_from_date></special_from_date>
+  <special_to_date></special_to_date>
+  <special_price_uk></special_price_uk>
+  <special_from_date_uk></special_from_date_uk>
+  <special_to_date_uk></special_to_date_uk>
+  <special_price_de></special_price_de>
+  <special_from_date_de></special_from_date_de>
+  <special_to_date_de></special_to_date_de>
+  <special_price_nl></special_price_nl>
+  <special_from_date_nl></special_from_date_nl>
+  <special_to_date_nl></special_to_date_nl>
+  <special_price_be></special_price_be>
+  <special_from_date_be></special_from_date_be>
+  <special_to_date_be></special_to_date_be>
+  <special_price_fr></special_price_fr>
+  <special_from_date_fr></special_from_date_fr>
+  <special_to_date_fr></special_to_date_fr>
+  <special_price_it></special_price_it>
+  <special_from_date_it></special_from_date_it>
+  <special_to_date_it></special_to_date_it>
+  <special_price_pan_en></special_price_pan_en>
+  <special_from_date_pan_en></special_from_date_pan_en>
+  <special_to_date_pan_en></special_to_date_pan_en>
+  <special_price_pan_es></special_price_pan_es>
+  <special_from_date_pan_es></special_from_date_pan_es>
+  <special_to_date_pan_es></special_to_date_pan_es>
+  <special_price_pan_fr></special_price_pan_fr>
+  <special_from_date_pan_fr></special_from_date_pan_fr>
+  <special_to_date_pan_fr></special_to_date_pan_fr>
+  <special_price_pan_de></special_price_pan_de>
+  <special_from_date_pan_de></special_from_date_pan_de>
+  <special_to_date_pan_de></special_to_date_pan_de>
+  <news_from_date>2012-09-28</news_from_date>
+  <image_front>S8L0004BL_front.jpg</image_front>
+  <image_back>S8L0004BL_back.jpg</image_back>
+  <image_pocket>S8L0004BL_pocket.jpg</image_pocket>
+  <image_wash>S8L0004BL_wash.jpg</image_wash>
+  <small_image></small_image>
+  <thumbnail></thumbnail>
+  <url_key></url_key>
+  <color></color>
+  <bubble_new_collection></bubble_new_collection>
+  <bubble_sale></bubble_sale>
+  <bubble_best_seller></bubble_best_seller>
+  <bubble_limited_edition></bubble_limited_edition>
+  <gender>Women</gender>
+  <fit_group>ACCESSORIES</fit_group>
+  <fit_code>FOOTWEAR</fit_code>
+  <wash_group>COLOUR</wash_group>
+  <enable_special_area>No</enable_special_area>
+  <special_area_static_block_id></special_area_static_block_id>
+  <delivery_return_static_block_id>product_tab_delivery_return</delivery_return_static_block_id>
+  <status>Disabled</status>
+  <visibility>Nowhere</visibility>
+  <super_attributes>size</super_attributes>
+  <website>base</website>
+  <category_ids></category_ids>
+  <main_cat_seo></main_cat_seo>
+  <details_care></details_care>
+</configurable>

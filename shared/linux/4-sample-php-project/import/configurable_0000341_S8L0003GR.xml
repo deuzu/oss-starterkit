@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configurable>
+  <sku>S8L0003GR</sku>
+  <i18n_name>VIGNET CALF BOOT GREY</i18n_name>
+  <i18n_name_de>VIGNET CALF BOOT GREY</i18n_name_de>
+  <i18n_name_nl>VIGNET CALF BOOT GREY</i18n_name_nl>
+  <i18n_name_fr>VIGNET CALF BOOT GREY</i18n_name_fr>
+  <i18n_name_it>VIGNET CALF BOOT GREY</i18n_name_it>
+  <i18n_name_es>VIGNET CALF BOOT GREY</i18n_name_es>
+  <product_start_date>2012-09-28</product_start_date>
+  <product_end_date>2018-10-02</product_end_date>
+  <i18n_description>Catwoman has nothing on you if you're wearing these sexy high-heeled boots. The Vignet boot in gray Seville calf leather is an absolute must for your fall wardrobe. Wear these boots with your 7FAM denims and even super-heroes won't be able to resist your feline charms.</i18n_description>
+  <i18n_description_de>Nicht einmal Catwoman hält den Vergleich mit diesen ultra-sexy Stiefeln mit schwindelhohen Absätzen aus. Die Vignet Boots aus Gray Seville Calf Leather werden das wahre Must Ihrer Herbstgarderobe sein. Tragen Sie sie mit Ihren Jeans von 7FAM und nicht einmal die Superhelden werden Ihrem wilden Charme widerstehen.</i18n_description_de>
+  <i18n_description_nl>Catwoman kan niet aan je tippen in deze sexy hooggehakte laarzen. De Vignet boot in gray Seville calf leather  is een absolute must in je herfstgarderobe. Draag deze laarzen met je 7FAM jeans en zelfs superhelden zullen voor je feliene charmes vallen.</i18n_description_nl>
+  <i18n_description_fr>Catwoman ne peut rien contre vous si vous portez ces bottes à talon haut très sexy. La Vignet Boot version Gray Seville Calf Leather est un véritable must à avoir absolument dans votre garde-robe de l'automne. Associez-la à vos denims 7FAM et vous verrez, même les super-héros ne pourront résister à vos charmes félins.</i18n_description_fr>
+  <i18n_description_it>Davanti a questi stivali ultrasexy con tacco vertiginoso neppure Catwoman riesce a reggere il confronto. Gli stivali  Vignet Boot in Gray Seville Calf Leather saranno il vero must del vostro guardaroba autunnale. Portateli con i vostri jeans 7FAM e neanche i super eroi resisteranno al vostro fascino felino.</i18n_description_it>
+  <i18n_description_es>Catwoman has nothing on you if you're wearing these sexy high-heeled boots. The Vignet boot in gray Seville calf leather is an absolute must for your fall wardrobe. Wear these boots with your 7FAM denims and even super-heroes won't be able to resist your feline charms.</i18n_description_es>
+  <i18n_short_description>VIGNET CALF BOOT GREY</i18n_short_description>
+  <i18n_short_description_de>VIGNET CALF BOOT GREY</i18n_short_description_de>
+  <i18n_short_description_nl>VIGNET CALF BOOT GREY</i18n_short_description_nl>
+  <i18n_short_description_fr>VIGNET CALF BOOT GREY</i18n_short_description_fr>
+  <i18n_short_description_it>VIGNET CALF BOOT GREY</i18n_short_description_it>
+  <i18n_short_description_es>VIGNET CALF BOOT GREY</i18n_short_description_es>
+  <i18n_product_details>&lt;ul&gt;&lt;li&gt;100% Leather&lt;/li&gt;&lt;/ul&gt;</i18n_product_details>
+  <i18n_product_details_de>&lt;ul&gt;&lt;li&gt;100% Leder&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_de>
+  <i18n_product_details_nl>&lt;ul&gt;&lt;li&gt;100% Leer&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_nl>
+  <i18n_product_details_fr>&lt;ul&gt;&lt;li&gt;100% Cuir&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_fr>
+  <i18n_product_details_it>&lt;ul&gt;&lt;li&gt;100% Pelle&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_it>
+  <i18n_product_details_es>&lt;ul&gt;&lt;li&gt;100% Cuero&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_es>
+  <i18n_product_moreaboutthefit></i18n_product_moreaboutthefit>
+  <i18n_product_moreaboutthefit_de></i18n_product_moreaboutthefit_de>
+  <i18n_product_moreaboutthefit_nl></i18n_product_moreaboutthefit_nl>
+  <i18n_product_moreaboutthefit_fr></i18n_product_moreaboutthefit_fr>
+  <i18n_product_moreaboutthefit_it></i18n_product_moreaboutthefit_it>
+  <i18n_product_moreaboutthefit_es></i18n_product_moreaboutthefit_es>
+  <price>370</price>
+  <price_uk>335</price_uk>
+  <price_de>370</price_de>
+  <price_be>370</price_be>
+  <price_nl>370</price_nl>
+  <price_fr>370</price_fr>
+  <price_it>370</price_it>
+  <price_pan_en>370</price_pan_en>
+  <price_pan_es>370</price_pan_es>
+  <price_pan_fr>370</price_pan_fr>
+  <price_pan_de>370</price_pan_de>
+  <special_price></special_price>
+  <special_from_date></special_from_date>
+  <special_to_date></special_to_date>
+  <special_price_uk></special_price_uk>
+  <special_from_date_uk></special_from_date_uk>
+  <special_to_date_uk></special_to_date_uk>
+  <special_price_de></special_price_de>
+  <special_from_date_de></special_from_date_de>
+  <special_to_date_de></special_to_date_de>
+  <special_price_nl></special_price_nl>
+  <special_from_date_nl></special_from_date_nl>
+  <special_to_date_nl></special_to_date_nl>
+  <special_price_be></special_price_be>
+  <special_from_date_be></special_from_date_be>
+  <special_to_date_be></special_to_date_be>
+  <special_price_fr></special_price_fr>
+  <special_from_date_fr></special_from_date_fr>
+  <special_to_date_fr></special_to_date_fr>
+  <special_price_it></special_price_it>
+  <special_from_date_it></special_from_date_it>
+  <special_to_date_it></special_to_date_it>
+  <special_price_pan_en></special_price_pan_en>
+  <special_from_date_pan_en></special_from_date_pan_en>
+  <special_to_date_pan_en></special_to_date_pan_en>
+  <special_price_pan_es></special_price_pan_es>
+  <special_from_date_pan_es></special_from_date_pan_es>
+  <special_to_date_pan_es></special_to_date_pan_es>
+  <special_price_pan_fr></special_price_pan_fr>
+  <special_from_date_pan_fr></special_from_date_pan_fr>
+  <special_to_date_pan_fr></special_to_date_pan_fr>
+  <special_price_pan_de></special_price_pan_de>
+  <special_from_date_pan_de></special_from_date_pan_de>
+  <special_to_date_pan_de></special_to_date_pan_de>
+  <news_from_date>2012-09-28</news_from_date>
+  <image_front>S8L0003GR_front.jpg</image_front>
+  <image_back>S8L0003GR_back.jpg</image_back>
+  <image_pocket>S8L0003GR_pocket.jpg</image_pocket>
+  <image_wash>S8L0003GR_wash.jpg</image_wash>
+  <small_image></small_image>
+  <thumbnail></thumbnail>
+  <url_key></url_key>
+  <color></color>
+  <bubble_new_collection></bubble_new_collection>
+  <bubble_sale></bubble_sale>
+  <bubble_best_seller></bubble_best_seller>
+  <bubble_limited_edition></bubble_limited_edition>
+  <gender>Women</gender>
+  <fit_group>ACCESSORIES</fit_group>
+  <fit_code>FOOTWEAR</fit_code>
+  <wash_group>COLOUR</wash_group>
+  <enable_special_area>No</enable_special_area>
+  <special_area_static_block_id></special_area_static_block_id>
+  <delivery_return_static_block_id>product_tab_delivery_return</delivery_return_static_block_id>
+  <status>Disabled</status>
+  <visibility>Nowhere</visibility>
+  <super_attributes>size</super_attributes>
+  <website>base</website>
+  <category_ids></category_ids>
+  <main_cat_seo></main_cat_seo>
+  <details_care></details_care>
+</configurable>

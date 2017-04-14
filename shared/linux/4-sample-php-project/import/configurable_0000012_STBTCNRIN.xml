@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configurable>
+  <sku>STBTCNRIN</sku>
+  <i18n_name>BOOTCUT IN RINSE</i18n_name>
+  <i18n_name_de>BOOTCUT IN RINSE</i18n_name_de>
+  <i18n_name_nl>BOOTCUT IN RINSE</i18n_name_nl>
+  <i18n_name_fr>BOOTCUT IN RINSE</i18n_name_fr>
+  <i18n_name_it>BOOTCUT IN RINSE</i18n_name_it>
+  <i18n_name_es>BOOTCUT IN RINSE</i18n_name_es>
+  <product_start_date>2011-01-01</product_start_date>
+  <product_end_date>2016-05-01</product_end_date>
+  <i18n_description>A flattering fit for all shapes, this Bootcut jean in a clean but lightly brushed dark indigo blue is smart and sophisticated. Silver hardware and pale navy thread add to their unique femininity. Wear with a fitted blazer and flats for timeless chic.</i18n_description>
+  <i18n_description_de>&lt;ul&gt;&lt;li&gt;Bootcut-Jeans, die jeder Figur schmeichelt&lt;/li&gt;&#13;
+&lt;li&gt;brushed Denim in Indigoblau&lt;/li&gt;&#13;
+&lt;li&gt;raffiniert und modern&lt;/li&gt;&#13;
+&lt;li&gt;silberne Verzierungen und hellblaue Nähte&lt;/li&gt;&#13;
+&lt;li&gt;superfeminin&lt;/li&gt;&#13;
+&lt;li&gt;schick mit Taillenblazer&lt;/li&gt;&lt;/ul&gt;</i18n_description_de>
+  <i18n_description_nl>Deze Bootcut, met flatterende snit voor alle maten, in een sober maar licht geborsteld donker indigoblauw, is chic en verfijnd. Het zilverkleurige belegsel en de bleekblauwe draad geven een uniek vrouwelijk effect. Draag met een getailleerde blazer en platte schoentjes voor tijdloze chic.</i18n_description_nl>
+  <i18n_description_fr>Avec sa coupe qui avantage toutes les formes, ce Bootcut d’un bleu-indigo foncé clean mais légèrement brossé est très chic et sophistiqué. Les détails argentés et le logo bleu marine rehaussent sa féminité exceptionnelle. Portez-le avec un blazer cintré et des ballerines pour un look chic indémodable.</i18n_description_fr>
+  <i18n_description_it></i18n_description_it>
+  <i18n_description_es>A flattering fit for all shapes, this Bootcut jean in a clean but lightly brushed dark indigo blue is smart and sophisticated. Silver hardware and pale navy thread add to their unique femininity. Wear with a fitted blazer and flats for timeless chic.</i18n_description_es>
+  <i18n_short_description>BOOTCUT IN RINSE</i18n_short_description>
+  <i18n_short_description_de>BOOTCUT IN RINSE</i18n_short_description_de>
+  <i18n_short_description_nl>BOOTCUT IN RINSE</i18n_short_description_nl>
+  <i18n_short_description_fr>BOOTCUT IN RINSE</i18n_short_description_fr>
+  <i18n_short_description_it>BOOTCUT IN RINSE</i18n_short_description_it>
+  <i18n_short_description_es>BOOTCUT IN RINSE</i18n_short_description_es>
+  <i18n_product_details>&lt;ul&gt;&lt;li&gt;A very expensive brand's signature squiggle back pocket&lt;/li&gt;&lt;li&gt;92% cotton 8% elastomultiestere&lt;/li&gt;&lt;li&gt;zip fly&lt;/li&gt;&lt;li&gt;Regular waist&lt;/li&gt;&lt;li&gt;All of our products are made in Europe or USA&lt;/li&gt;&lt;li&gt;Average weight 700 gr.&lt;/li&gt;&lt;/ul&gt;</i18n_product_details>
+  <i18n_product_details_de>&lt;ul&gt;&lt;li&gt;Die Signature Squiggle Backpocket von A very expensive brand&lt;/li&gt;&lt;li&gt;92 % Baumwolle 8 % ELASTOMULTIESTER&lt;/li&gt;&lt;li&gt;REISVERSCHLUSSLEISTE&lt;/li&gt;&lt;li&gt;LOW RISE&lt;/li&gt;&lt;li&gt;Unsere Produkte werden in Europa und den USA hergestellt&lt;/li&gt;&lt;li&gt;Durchschnittliches Gewicht 700 gr&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_de>
+  <i18n_product_details_nl>&lt;ul&gt;&lt;li&gt;A very expensive brand's signature squiggle back pocket&lt;/li&gt;&lt;li&gt;92% Katoen 8% Elastomultiestere&lt;/li&gt;&lt;li&gt;Ritssluiting&lt;/li&gt;&lt;li&gt;Al onze producten worden gemaakt in Europa of de Verenigde Staten&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_nl>
+  <i18n_product_details_fr>&lt;ul&gt;&lt;li&gt;A very expensive brand's squiggle poche&lt;/li&gt;&lt;li&gt;92% Coton 8% Elastomultiestere&lt;/li&gt;&lt;li&gt;Fermeture Zip&lt;/li&gt;&lt;li&gt;Tous nos produits sont fabriqués en Europe ou aux Etats-Unis&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_fr>
+  <i18n_product_details_it></i18n_product_details_it>
+  <i18n_product_details_es>&lt;ul&gt;&lt;li&gt;92% Algodón 8% Elastomultiéstere&lt;/li&gt;&lt;li&gt;zip fly&lt;/li&gt;&lt;li&gt;Regular waist&lt;/li&gt;&lt;li&gt;All of our products are made in Europe or USA&lt;/li&gt;&lt;li&gt;Average weight 700 gr.&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_es>
+  <i18n_product_moreaboutthefit>The Bootcut is A very expensive brand's original premium jean. It has a natural rise, comfortable hip and thigh and a classic bootcut leg opening. It's offered with our signature squiggle or a variety of back pocket designs.</i18n_product_moreaboutthefit>
+  <i18n_product_moreaboutthefit_de>A very expensive brand's original Premium-Jeans. Mit regulärer Leibhöhe, bequemer Hüft- und Schenkelweite und einem klassischen Bootcut. Erhältlich mit unserem "Squiggle"-Logo und verschiedenen anderen Taschendesigns.</i18n_product_moreaboutthefit_de>
+  <i18n_product_moreaboutthefit_nl>De Bootcut is de originele topjeans van A very expensive brand. Hij heeft een natuurlijke heuplijn, een comfortabele snit aan heup en dijen en waaiert uit aan de onderpijpen. Op de achterzak werd onze signature squiggle of een van de vele andere designs aangebracht.</i18n_product_moreaboutthefit_nl>
+  <i18n_product_moreaboutthefit_fr>Le Bootcut est le premier jean haut de gamme de A very expensive brand. Reposant sur la taille naturelle, confortable au niveau des hanches et des cuisses, il se termine en bas par une coupe semi-évasée classique. Il est proposé avec le logo ou divers motifs brodés sur les poches arrière.</i18n_product_moreaboutthefit_fr>
+  <i18n_product_moreaboutthefit_it></i18n_product_moreaboutthefit_it>
+  <i18n_product_moreaboutthefit_es>The Bootcut is A very expensive brand's original premium jean. It has a natural rise, comfortable hip and thigh and a classic bootcut leg opening. It's offered with our signature squiggle or a variety of back pocket designs.</i18n_product_moreaboutthefit_es>
+  <price>179</price>
+  <price_uk>160</price_uk>
+  <price_de>179</price_de>
+  <price_be>179</price_be>
+  <price_nl>179</price_nl>
+  <price_fr>179</price_fr>
+  <price_it>179</price_it>
+  <price_pan_en>179</price_pan_en>
+  <price_pan_es>179</price_pan_es>
+  <price_pan_fr>179</price_pan_fr>
+  <price_pan_de>179</price_pan_de>
+  <special_price></special_price>
+  <special_from_date></special_from_date>
+  <special_to_date></special_to_date>
+  <special_price_uk></special_price_uk>
+  <special_from_date_uk></special_from_date_uk>
+  <special_to_date_uk></special_to_date_uk>
+  <special_price_de></special_price_de>
+  <special_from_date_de></special_from_date_de>
+  <special_to_date_de></special_to_date_de>
+  <special_price_nl></special_price_nl>
+  <special_from_date_nl></special_from_date_nl>
+  <special_to_date_nl></special_to_date_nl>
+  <special_price_be></special_price_be>
+  <special_from_date_be></special_from_date_be>
+  <special_to_date_be></special_to_date_be>
+  <special_price_fr></special_price_fr>
+  <special_from_date_fr></special_from_date_fr>
+  <special_to_date_fr></special_to_date_fr>
+  <special_price_it></special_price_it>
+  <special_from_date_it></special_from_date_it>
+  <special_to_date_it></special_to_date_it>
+  <special_price_pan_en></special_price_pan_en>
+  <special_from_date_pan_en></special_from_date_pan_en>
+  <special_to_date_pan_en></special_to_date_pan_en>
+  <special_price_pan_es></special_price_pan_es>
+  <special_from_date_pan_es></special_from_date_pan_es>
+  <special_to_date_pan_es></special_to_date_pan_es>
+  <special_price_pan_fr></special_price_pan_fr>
+  <special_from_date_pan_fr></special_from_date_pan_fr>
+  <special_to_date_pan_fr></special_to_date_pan_fr>
+  <special_price_pan_de></special_price_pan_de>
+  <special_from_date_pan_de></special_from_date_pan_de>
+  <special_to_date_pan_de></special_to_date_pan_de>
+  <news_from_date>2011-01-01</news_from_date>
+  <image_front>stbtcnrin_front.jpg</image_front>
+  <image_back>stbtcnrin_back.jpg</image_back>
+  <image_pocket>stbtcnrin_pocket.jpg</image_pocket>
+  <image_wash>STBTCNRIN_wash.jpg</image_wash>
+  <small_image></small_image>
+  <thumbnail></thumbnail>
+  <url_key></url_key>
+  <color></color>
+  <bubble_new_collection></bubble_new_collection>
+  <bubble_sale></bubble_sale>
+  <bubble_best_seller></bubble_best_seller>
+  <bubble_limited_edition></bubble_limited_edition>
+  <gender>Women</gender>
+  <fit_group>BOOTCUT</fit_group>
+  <fit_code>BOOTCUT</fit_code>
+  <wash_group>Dark Wash</wash_group>
+  <enable_special_area>No</enable_special_area>
+  <special_area_static_block_id></special_area_static_block_id>
+  <delivery_return_static_block_id>product_tab_delivery_return</delivery_return_static_block_id>
+  <status>Disabled</status>
+  <visibility>Nowhere</visibility>
+  <super_attributes>size</super_attributes>
+  <website>base</website>
+  <category_ids></category_ids>
+  <main_cat_seo></main_cat_seo>
+  <details_care></details_care>
+</configurable>

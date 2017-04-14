@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configurable>
+  <sku>SNSGTNNYD</sku>
+  <i18n_name>STANDARD IN NEW YORK DARK</i18n_name>
+  <i18n_name_de>STANDARD IN NEW YORK DARK</i18n_name_de>
+  <i18n_name_nl>STANDARD IN NEW YORK DARK</i18n_name_nl>
+  <i18n_name_fr>STANDARD IN NEW YORK DARK</i18n_name_fr>
+  <i18n_name_it>STANDARD IN NEW YORK DARK</i18n_name_it>
+  <i18n_name_es>STANDARD IN NEW YORK DARK</i18n_name_es>
+  <product_start_date>2011-01-01</product_start_date>
+  <product_end_date>2016-05-01</product_end_date>
+  <i18n_description>Get the best of both worlds, this straight-leg jean in our darkest New York wash works great for smart or casual dressing. Built to last season after season.</i18n_description>
+  <i18n_description_de>&lt;ul&gt;&lt;li&gt;gerade geschnitten&lt;/li&gt;&#13;
+&lt;li&gt;superdunkler New York Wash&lt;/li&gt;&#13;
+&lt;li&gt;ein elegant lässiger Dauerbrenner&lt;/li&gt;&lt;/ul&gt;</i18n_description_de>
+  <i18n_description_nl>Haal het beste uit beide werelden – deze jeans met rechte pijp in onze donkerste New York-wassing is perfect voor zowel chique als casual momenten. Een blijver, seizoen na seizoen.</i18n_description_nl>
+  <i18n_description_fr>Ce jean droit au lavage très foncé New York a tout pour plaire et peut aisément être porté en version habillée ou décontractée, saison après saison.</i18n_description_fr>
+  <i18n_description_it></i18n_description_it>
+  <i18n_description_es>Get the best of both worlds, this straight-leg jean in our darkest New York wash works great for smart or casual dressing. Built to last season after season.</i18n_description_es>
+  <i18n_short_description>STANDARD IN NEW YORK DARK</i18n_short_description>
+  <i18n_short_description_de>STANDARD IN NEW YORK DARK</i18n_short_description_de>
+  <i18n_short_description_nl>STANDARD IN NEW YORK DARK</i18n_short_description_nl>
+  <i18n_short_description_fr>STANDARD IN NEW YORK DARK</i18n_short_description_fr>
+  <i18n_short_description_it>STANDARD IN NEW YORK DARK</i18n_short_description_it>
+  <i18n_short_description_es>STANDARD IN NEW YORK DARK</i18n_short_description_es>
+  <i18n_product_details>&lt;ul&gt;&lt;li&gt;A very expensive brand's signature squiggle back pocket&lt;/li&gt;&lt;li&gt;100% cotton&lt;/li&gt;&lt;li&gt;button fly&lt;/li&gt;&lt;li&gt;Regular waist&lt;/li&gt;&lt;li&gt;All of our products are made in Europe or USA&lt;/li&gt;&lt;li&gt;Average weight 700 gr.&lt;/li&gt;&lt;/ul&gt;</i18n_product_details>
+  <i18n_product_details_de>&lt;ul&gt;&lt;li&gt;Die Signature Squiggle Backpocket von A very expensive brand&lt;/li&gt;&lt;li&gt;100 % Baumwolle&lt;/li&gt;&lt;li&gt;Knopfleiste&lt;/li&gt;&lt;li&gt;Regular waist&lt;/li&gt;&lt;li&gt;Unsere Produkte werden in Europa und den USA hergestellt&lt;/li&gt;&lt;li&gt;Durchschnittliches Gewicht 700 gr&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_de>
+  <i18n_product_details_nl>&lt;ul&gt;&lt;li&gt;A very expensive brand's signature squiggle back pocket&lt;/li&gt;&lt;li&gt;100% Katoen&lt;/li&gt;&lt;li&gt;Knoopsluiting&lt;/li&gt;&lt;li&gt;LOW RISE&lt;/li&gt;&lt;li&gt;Al onze producten worden gemaakt in Europa of de Verenigde Staten&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_nl>
+  <i18n_product_details_fr>&lt;ul&gt;&lt;li&gt;A very expensive brand's squiggle poche&lt;/li&gt;&lt;li&gt;100% Coton&lt;/li&gt;&lt;li&gt;Fermeture boutons&lt;/li&gt;&lt;li&gt;Tous nos produits sont fabriqués en Europe ou aux Etats-Unis&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_fr>
+  <i18n_product_details_it></i18n_product_details_it>
+  <i18n_product_details_es>&lt;ul&gt;&lt;li&gt;100% Algodón&lt;/li&gt;&lt;li&gt;button fly&lt;/li&gt;&lt;li&gt;Regular waist&lt;/li&gt;&lt;li&gt;All of our products are made in Europe or USA&lt;/li&gt;&lt;li&gt;Average weight 700 gr.&lt;/li&gt;&lt;/ul&gt;</i18n_product_details_es>
+  <i18n_product_moreaboutthefit>&lt;ul&gt;&lt;li&gt;Die Signature Squiggle Backpocket von A very expensive brand&lt;/li&gt;&lt;li&gt;100 % Baumwolle&lt;/li&gt;&lt;li&gt;KNOPFLEISTE&lt;/li&gt;&lt;li&gt;LOW RISE&lt;/li&gt;&lt;li&gt;Unsere Produkte werden in Europa und den USA hergestellt&lt;/li&gt;&lt;li&gt;Durchschnittliches Gewicht 700 gr&lt;/li&gt;&lt;/ul&gt;</i18n_product_moreaboutthefit>
+  <i18n_product_moreaboutthefit_de>Standard ist unsere klassische Straight Leg Jeans. Bequeme Passform mit Knopfleiste und einer geraden Silhouette. Die Standard ist mit verschiedenen Taschendesigns erhältlich und kann lässig oder chic getragen werden.</i18n_product_moreaboutthefit_de>
+  <i18n_product_moreaboutthefit_nl>De Standard is onze klassieke straightleg-jeans. Hij zit comfortabel en sluit mooi aan van middel tot heup. De sluiting is met knopen en de pijpen vallen recht. De Standard is beschikbaar met allerhande designs op de achterzakken en kan zowel gekleed als casual gedragen worden.</i18n_product_moreaboutthefit_nl>
+  <i18n_product_moreaboutthefit_fr>Le Standard est notre jean droit classique. Confortable bien que parfaitement coupé de la taille jusqu’aux hanches, il tombe droit sur les jambes et est fermé par des boutons. Le Standard est proposé avec divers types de poches arrière et de surpiqûres et peut être porté en version décontractée ou habillée.</i18n_product_moreaboutthefit_fr>
+  <i18n_product_moreaboutthefit_it></i18n_product_moreaboutthefit_it>
+  <i18n_product_moreaboutthefit_es>&lt;ul&gt;&lt;li&gt;Die Signature Squiggle Backpocket von A very expensive brand&lt;/li&gt;&lt;li&gt;100 % Baumwolle&lt;/li&gt;&lt;li&gt;KNOPFLEISTE&lt;/li&gt;&lt;li&gt;LOW RISE&lt;/li&gt;&lt;li&gt;Unsere Produkte werden in Europa und den USA hergestellt&lt;/li&gt;&lt;li&gt;Durchschnittliches Gewicht 700 gr&lt;/li&gt;&lt;/ul&gt;</i18n_product_moreaboutthefit_es>
+  <price>179</price>
+  <price_uk>160</price_uk>
+  <price_de>179</price_de>
+  <price_be>179</price_be>
+  <price_nl>179</price_nl>
+  <price_fr>179</price_fr>
+  <price_it>179</price_it>
+  <price_pan_en>179</price_pan_en>
+  <price_pan_es>179</price_pan_es>
+  <price_pan_fr>179</price_pan_fr>
+  <price_pan_de>179</price_pan_de>
+  <special_price></special_price>
+  <special_from_date></special_from_date>
+  <special_to_date></special_to_date>
+  <special_price_uk></special_price_uk>
+  <special_from_date_uk></special_from_date_uk>
+  <special_to_date_uk></special_to_date_uk>
+  <special_price_de></special_price_de>
+  <special_from_date_de></special_from_date_de>
+  <special_to_date_de></special_to_date_de>
+  <special_price_nl></special_price_nl>
+  <special_from_date_nl></special_from_date_nl>
+  <special_to_date_nl></special_to_date_nl>
+  <special_price_be></special_price_be>
+  <special_from_date_be></special_from_date_be>
+  <special_to_date_be></special_to_date_be>
+  <special_price_fr></special_price_fr>
+  <special_from_date_fr></special_from_date_fr>
+  <special_to_date_fr></special_to_date_fr>
+  <special_price_it></special_price_it>
+  <special_from_date_it></special_from_date_it>
+  <special_to_date_it></special_to_date_it>
+  <special_price_pan_en></special_price_pan_en>
+  <special_from_date_pan_en></special_from_date_pan_en>
+  <special_to_date_pan_en></special_to_date_pan_en>
+  <special_price_pan_es></special_price_pan_es>
+  <special_from_date_pan_es></special_from_date_pan_es>
+  <special_to_date_pan_es></special_to_date_pan_es>
+  <special_price_pan_fr></special_price_pan_fr>
+  <special_from_date_pan_fr></special_from_date_pan_fr>
+  <special_to_date_pan_fr></special_to_date_pan_fr>
+  <special_price_pan_de></special_price_pan_de>
+  <special_from_date_pan_de></special_from_date_pan_de>
+  <special_to_date_pan_de></special_to_date_pan_de>
+  <news_from_date>2011-01-01</news_from_date>
+  <image_front>snsgtnnyd_front.jpg</image_front>
+  <image_back>snsgtnnyd_back.jpg</image_back>
+  <image_pocket>snsgtnnyd_pocket.jpg</image_pocket>
+  <image_wash>SNSGTNNYD_wash.jpg</image_wash>
+  <small_image></small_image>
+  <thumbnail></thumbnail>
+  <url_key></url_key>
+  <color></color>
+  <bubble_new_collection></bubble_new_collection>
+  <bubble_sale></bubble_sale>
+  <bubble_best_seller></bubble_best_seller>
+  <bubble_limited_edition></bubble_limited_edition>
+  <gender>Men</gender>
+  <fit_group>STRAIGHT</fit_group>
+  <fit_code>STANDARD</fit_code>
+  <wash_group>Dark Wash</wash_group>
+  <enable_special_area>No</enable_special_area>
+  <special_area_static_block_id></special_area_static_block_id>
+  <delivery_return_static_block_id>product_tab_delivery_return</delivery_return_static_block_id>
+  <status>Disabled</status>
+  <visibility>Nowhere</visibility>
+  <super_attributes>size</super_attributes>
+  <website>base</website>
+  <category_ids></category_ids>
+  <main_cat_seo></main_cat_seo>
+  <details_care></details_care>
+</configurable>
