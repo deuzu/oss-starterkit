@@ -1,0 +1,50 @@
+Sortir Liste des ville
+ - brut
+cat villes.txt
+
+ - combien de villes
+cat villes.txt | wc -l
+
+ - triées
+cat villes.txt | sort 
+
+- qui contiennent  "saint"
+cat villes.txt | grep "saint"
+cat villes.txt | grep "saint"  | wc -l
+
+ - qui ne contienne pas saint
+cat villes.txt | grep -v "saint"
+cat villes.txt | grep -v "saint" | wc -l
+
+ - villes avec un nom composé
+
+cat villes.txt | egrep  [ |-] 
+
+ - y a t il des doublons ?
+
+ - construire une liste sans doublon
+cat villes | sort | uniq 
+
+ - Quelles sont les villes qui étaient en double ?
+cat villes.txt | sort > villes.sort
+cat villes.sort | uniq > villes.uniq
+
+diff villes.sort villes.uniq
+diff villes.sort villes.uniq | grep '< '
+
+diff villes.sort villes.uniq | grep '< ' | cut -f 2 -d ' ' | uniq | wc -l
+
+ - nombre de villes avec un nom composé
+cat villes | sort | uniq | egrep  [' |-'] | wc -l
+
+
+Villes avec plus de 1 occurences
+smart
+cat villes.txt | sed 's/ /_/' | sort | uniq -c | grep -v ' 1 '
+
+bourrin
+cat villes.txt | sed 's/ /_/' | sort | uniq -c | sed -e 's/^[ \t]*//' | awk '{if($ 1> 1) print $2, $1}'
+
+Villes avec plus de 10 occurences
+cat villes.txt | sed 's/ /_/' | sort | uniq -c | egrep '[0-9]+[0-9]+'
+cat villes.txt | sed 's/ /_/' | sort | uniq -c | sed -e 's/^[ \t]*//' | awk '{if($ 1> 10) print $2, $1}'

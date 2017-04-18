@@ -1,0 +1,50 @@
+
+
+A - Chercher dans une arborescence (/home/oss/4-sample_php_project)
+
+
+    Chercher tous les auteurs du code dans le projet (chercher @author)
+
+	grep -rih '@author' .
+
+    Ca rame ? Ne chercher que dans les fichiers php
+
+	find . -name "*.php" | xargs egrep -ln '@author'
+
+
+B – Manipuler du texte
+
+
+    Renommer le produit « THE CROPPED CHINO SATEEN NAVY » en « JEAN TRES TRES CHER » dans son fichier d'import (dossier import)
+
+        1 - trouver le fichier d'import de ce produit
+	grep -l 'THE CROPPED CHINO SATEEN NAVY' *.xml
+
+	2 - remplacer le nom du produit dans son fichier d'import
+	sed -i "s/THE CROPPED CHINO SATEEN NAVY/JEAN TRES TRES CHER/g" configurable_0003066_SJAQ420NV.xml
+
+    Changer les status des produits dans le fichier d'import, de « Disabled » à « Enabled »
+
+	sed -i "s/Disabled/Enabled/g" *.xml
+
+    Lister code de Jean Michel
+
+	simple
+	grep -rni 'jean-maurice@skill.com' .
+
+	poussee
+	find . -name "*.php" | xargs egrep -i 'jean-maurice@skill.com'
+
+    S'approprier le code de Jean Maurice en faisant croire qu'on en est l'auteur (hint : chercher les @author)
+
+	find . -type f -name "*.php" -exec sed -i 's/jean-maurice\@skill.com/moi\@cheater.com/g' {} \; 
+
+    Chercher tous les fichiers php dont Robert est l'auteur et les supprimer, quel artiste ce Robert.
+
+	1 - lister les fichiers de robert
+	find . -name "*.php" | xargs egrep -il 'robert@sagouins.fr' > fichiers-de-robert
+
+	2 - les supprimer
+	 for line in $(cat fichiers-de-robert); do rm -f $line;done
+	ou
+	 cat fichiers-de-robert | xargs rm -f

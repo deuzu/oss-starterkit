@@ -1,0 +1,84 @@
+A - Chercher et Manipuler des fichiers
+    Trouver les fichiers .gz dans le home (access logs apache)
+
+	find -name *.gz
+
+    Consulter la taille des fichiers compressés
+
+	ls -lha
+
+    Décompresser celui du 6 novembre
+
+	cd logs && gunzip snowleader-v2-access.log-20161106.gz
+
+    Consulter la taille du fichier décompressé
+
+	ls -lha snowleader-v2-access.log-20161106
+
+
+B - Creuser dedans !
+
+    Découvrir la structure du fichier
+
+	tail snowleader-v2-access.log-20161106
+
+    Trouver la période de temps qu'il couvre
+
+	head -n 1 snowleader-v2-access.log-20161106
+	tail -1 snowleader-v2-access.log-20161106
+
+    Chercher les URLs ayant abouti sur des codes HTTP 404
+
+	simpliste :
+	grep ' 404 ' snowleader-v2-access.log-20161106 
+
+	Poussée :
+	cat snowleader-v2-access.log-20161107 | awk '{ if($9 == 404) print $9, $7}' | sort | uniq -c | sort -rn 
+
+
+    N'afficher que les URLs de ces 404
+
+	simpliste :
+	grep ' 404 ' snowleader-v2-access.log-20161106 | head | cut -d ' ' -f 7
+
+
+	Poussée :
+	cat snowleader-v2-access.log-20161107 | awk '{ if($9 == 404) print $7}'
+
+
+    Les trier par popularité descendante
+
+	simpliste :
+	grep ' 404 ' snowleader-v2-access.log-20161106 | head | cut -d ' ' -f 7 | sort | uniq -c | sort -rn
+
+
+	Poussée :
+	cat snowleader-v2-access.log-20161107 | awk '{ if($9 == 404) print $7}' | sort | uniq -c | sort -rn
+
+
+    Ne garder que les 50 premières 
+
+	simpliste :
+	grep ' 404 ' snowleader-v2-access.log-20161106 | head | cut -d ' ' -f 7 | sort | uniq -c | sort -rn | head -50
+
+	Poussée :	
+	cat snowleader-v2-access.log-20161107 | awk '{ if($9 == 404) print $7}' | sort | uniq -c | sort -rn | head -50
+
+
+
+
+    Ecrire cette liste dans most-frequent-404s.txt et le compresser
+
+	grep ' 404 ' snowleader-v2-access.log-20161106 | head | cut -d ' ' -f 7 | sort | uniq -c | sort -rn | head -50 > most-frequent-404s.txt
+
+	cat snowleader-v2-access.log-20161107 | awk '{ if($9 == 404) print $7}' | sort | uniq -c | sort -rn | head > most-frequent-404s.txt
+
+	tar -cvzf most-frequent-404s.tar.gz most-frequent-404s.txt
+	gzip most-frequent-404s.txt
+
+    Récupérer l'archive sur votre machine hôte
+	scp oss@<ip>:/home/oss/most-frequent-404s.tar.gz .
+	scp oss@<ip>:/home/oss/most-frequent-404s.txt.gz . 
+
+	ou avec rsync
+	ou avec ftp
