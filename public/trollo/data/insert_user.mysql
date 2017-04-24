@@ -1,0 +1,6 @@
+INSERT INTO `user` (name) VALUES
+('BEN'),
+('MOMO'),
+('Cryprien'),
+('Sebastien');
+
