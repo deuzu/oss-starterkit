@@ -2,7 +2,14 @@
 
 $hostname = 'localhost';
 $username = 'trollo';
-$password = 'trollo';
 $dbname = 'trollo';
+$password = 'trollo';
+$databaseConnection = null;
 
-$db = new PDO(sprintf('mysql:host=%s;dbname=%s;charset=utf8mb4', $hostname, $dbname), $username, $password);
+function getDatabaseConnection() {
+    if (!$databseConnection) {
+        $databaseConnection = new PDO(sprintf('mysql:host=%s;dbname=%s;charset=utf8mb4', $hostname, $dbname), $username, $password);
+    }
+
+    return $databaseConnection;
+}
