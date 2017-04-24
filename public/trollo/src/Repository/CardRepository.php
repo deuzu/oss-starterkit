@@ -2,6 +2,22 @@
 
 require_once('../Database/Connection.php');
 
-function insertCard($title, $description) {
-    //
+/**
+ * Create a trollo card.
+ */
+function create($title, $description) {
+    $date = new DateTime();
+    $stmt = $db->prepare("INSERT INTO card (title, description, created_at) VALUES (:title, :description, :created_at)");
+    $stmt->bindParam(':title', $title);
+    $stmt->bindParam(':description', $description);
+    $stmt->bindParam(':created_at', $date->format('Y-m-d H:i:s'));
+    $stm->execute();
+}
+
+function deleteCard($id) {
+
+    $sql = "DELETE FROM card WHERE id=$id";
+    $conn->query($sql);
+    return $conn;
+
 }
