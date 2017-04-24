@@ -1,0 +1,9 @@
+
+USE trollo;
+
+INSERT INTO `card` (title, description, user_id) VALUES
+('Un reveil pour momo', 'cotisation pour un reveil à offrir à la faucheuse', 1),
+('heure smile', 'On voudrait des cours en plus open source !', 2),
+('Rachat de smile', 'ALTERWAY va bientôt racheter Smile et outscale au passage', 3);
+
+
