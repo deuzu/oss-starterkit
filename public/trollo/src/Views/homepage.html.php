@@ -2,7 +2,7 @@
   <!-- Default panel contents -->
   <div class="panel-heading">Trollo</div>
   <div class="panel-body">
-    <p>Liste des taches</p>
+    <p>Liste des cartes</p>
   </div>
 
   <!-- Table -->
@@ -16,12 +16,12 @@
     </tr>
   </thead>
   <tbody>
-      <?php for ($i=0; $i < count($cards); $i++)
+      <?php foreach($cards as $card)
       { ?>
       <tr>
-        <th scope="row"><?php echo $i ?></th>
-        <td><?php echo $cards["title"][$i]; ?></td>
-        <td><?php echo $cards["description"][$i]; ?></td>
+        <th scope="row"><?php echo $card['id']; ?></th>
+        <td><?php echo $card['title']; ?></td>
+        <td><?php echo $card['description']; ?></td>
       </tr>
     <?php } ?>
   </tbody>
