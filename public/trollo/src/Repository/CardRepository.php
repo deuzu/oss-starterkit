@@ -1,23 +1,10 @@
 <?php
 
-require_once('../Database/Connection.php');
+require_once __DIR__.'/../Database/Connection.php';
 
-/**
- * Create a trollo card.
- */
-function create($title, $description) {
-    $date = new DateTime();
-    $stmt = $db->prepare("INSERT INTO card (title, description, created_at) VALUES (:title, :description, :created_at)");
-    $stmt->bindParam(':title', $title);
-    $stmt->bindParam(':description', $description);
-    $stmt->bindParam(':created_at', $date->format('Y-m-d H:i:s'));
-    $stm->execute();
-}
+function findAllCards() {
+    $connection = getDatabaseConnection();
+    $sql = 'SELECT * FROM card';
 
-function deleteCard($id) {
-
-    $sql = "DELETE FROM card WHERE id=$id";
-    $conn->query($sql);
-    return $conn;
-
+    return $connection->query($sql);
 }

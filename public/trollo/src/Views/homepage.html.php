@@ -13,17 +13,20 @@
       <th>#</th>
       <th>Title</th>
       <th>Description</th>
+      <th>Actions</th>
     </tr>
   </thead>
   <tbody>
-      <?php foreach($cards as $card)
-      { ?>
+      <?php foreach($cards as $card): ?>
       <tr>
-        <th scope="row"><?php echo $card['id']; ?></th>
-        <td><?php echo $card['title']; ?></td>
-        <td><?php echo $card['description']; ?></td>
+        <th scope="row"><? echo $card['id']; ?></th>
+        <td><? echo $card['title']; ?></td>
+        <td><? echo $card['description']; ?></td>
+        <td></td>
       </tr>
-    <?php } ?>
+    <?php endforeach; ?>
   </tbody>
   </table>
+
+  <a class="btn btn-danger" href="/?route=cardCreationForm" role="button">Create</a>
 </div>
