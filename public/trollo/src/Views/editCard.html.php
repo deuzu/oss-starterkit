@@ -1,3 +1,4 @@
+<form>
 <div class="form-group">
   <label for="title">Card title :</label>
   <input type="text" class="form-control" id="title" aria-describedby="titleFormat" value="<?php echo $card['title'] ?>" >
