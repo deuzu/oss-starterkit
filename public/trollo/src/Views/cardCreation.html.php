@@ -1,4 +1,4 @@
-<form id="creationCard" action="CardCreationForm.php">
+<form id="creationCard" action="/?route=cardCreation">
   <div class="form-group">
     <label for="title">Card title :</label>
     <input type="text" class="form-control" id="title" aria-describedby="titleFormat" placeholder="Enter a title">
